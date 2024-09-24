@@ -1,0 +1,9 @@
+--TO-DO--
+-------------------------------------------------
+
+
+
+-------------------------------------------------
+--UPDATES--
+-------------------------------------------------
+- simple scraper for 'startup100' made -> get info of table on starting page and saves in csv-file
