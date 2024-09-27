@@ -16,7 +16,6 @@ with open('../data/startup_data.csv', 'w', newline='', encoding='utf-8') as csvf
         
         for cell in row.find_all('td'):
             cell_text = cell.get_text(strip=True) #strip off extra space from text
-            
             row_data.append(cell_text)
             
         csvwriter.writerow(row_data)

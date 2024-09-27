@@ -1,9 +1,46 @@
+--IDEAS--
+-------------------------------------------------
+(1) Find websides which stores information about Finnish startups, especially with recent fundings and news about expansion
+    -> startup100
+    -> crunchbase
+    (-> healthtech finland (but they only provide web page links))
+    (-> wellfound.com, its more like a job listing)
+    -> failory (it's not a database but has some insights) (failory/startups/finland)
+    -> f6s (f6s/companies/finland/lo)
+
+(2) Build scrapers for each website, retrieving necessary data, and store in csv files
+    - name
+    - founding year
+    - summary description
+    - total fundings
+    - recent funding
+    - website link
+    - carrer page
+    (- news)
+        ----> use classes for scalabilitie etc.
+
+(3) Organize files and summarize everything in a final csv file
+
+((4) Organize data in database (sqllite))
+
+-------------------------------------------------
+--OTHER IDEAS--
+-------------------------------------------------
+- for dynamic websites with interactive features, use Selenium or Playwright
+- add proxy rotation on websites with robot.txt files
+- store data in database
+(- add multithreading to do asynchronous scraping)
+- deploy to cloud (like AWS)
+- use Docker
+
+-------------------------------------------------
 --TO-DO--
 -------------------------------------------------
-
-
+- build classes
+- add logging file to document process and errors with timestamps (-> email or slack alerts)
+- write cron job to automate scraper
 
 -------------------------------------------------
 --UPDATES--
 -------------------------------------------------
-- simple scraper for 'startup100' made -> get info of table on starting page and saves in csv-file
+24.09.2024 simple scraper for 'startup100' made -> get info of table on starting page and saves in csv-file, unprocessed
