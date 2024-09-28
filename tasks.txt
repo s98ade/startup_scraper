@@ -21,13 +21,13 @@
 
 (3) Organize files and summarize everything in a final csv file
 
-((4) Organize data in database (sqllite))
+((4) Organize data in database and other data files (like json) (sqllite))
 
 -------------------------------------------------
 --OTHER IDEAS--
 -------------------------------------------------
 - for dynamic websites with interactive features, use Selenium or Playwright
-- add proxy rotation on websites with robot.txt files
+- add proxy rotation on websites with robot.txt files and handle authentication
 - store data in database
 (- add multithreading to do asynchronous scraping)
 - deploy to cloud (like AWS)
@@ -36,7 +36,8 @@
 -------------------------------------------------
 --TO-DO--
 -------------------------------------------------
-- build classes
+- build classes -> (WebScraper, Parser, Logging, DataBase, etc.)
+- consider encapsulation -> what instances are going to be private, etc.
 - add logging file to document process and errors with timestamps (-> email or slack alerts)
 - write cron job to automate scraper
 
@@ -44,3 +45,4 @@
 --UPDATES--
 -------------------------------------------------
 24.09.2024 simple scraper for 'startup100' made -> get info of table on starting page and saves in csv-file, unprocessed
+28.09.2024 init class for first webscraper -> will be parent for other child scraper classes
