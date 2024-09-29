@@ -1,12 +1,16 @@
 import requests
-from bs4 import BeautifulSoup # do I need this here?
-import csv # do i need this here?
+
+from storage import storing
+from parser import parser
+from utils import colors
+
 
 class Scraper:
-    def __inti__(self, url: str):
+    def __init__(self, url: str):
         self.url = url
-        self.storage = # class for the database and file handling
-        self.parser = # class for specific parser
+        self.storage = storing.FileStorage()
+        self.parser = parser.Parser()
+        
         
     def fetch_page(self, url):
         try:
@@ -14,30 +18,15 @@ class Scraper:
             status = requests.status_codes
             return self.url
         except requests.exceptions.RequestException as error:
-            return f'Error fetching page: {error}\nStatus {status}'
+            print(f'{colors.bcolors.WARNING}Error fetching page: {error}\nStatus {status}')
+            return None
+        
     
     def scrape(self):
-        content = self.fetch_page()
+        content = self.fetch_page(self.url)
         
         if content:
-            data = # parser
-            # function for storage
-
-# -------------------------------------------------------------------------- #
-soup = BeautifulSoup(url, 'html.parser') # this goes to parser
-
-table = soup.find('tbody') # goes to parser
-
-with open('../data/startup_data.csv', 'w', newline='', encoding='utf-8') as csvfile:
-    csvwriter = csv.writer(csvfile) # this goes to storage
-    
-    for row in table.find_all('tr'): #this goes to parser
-        row_data = []
-        
-        for cell in row.find_all('td'):
-            cell_text = cell.get_text(strip=True) #strip off extra space from text
-            row_data.append(cell_text)
-            
-        csvwriter.writerow(row_data) # goes to storage
-
-print("Data retrieved...Information saved in ../data/startup_data.csv")
+            data = self.parser.parse_content(content)
+            self.storage.save_in_csv(data)
+        else:
+            print(f"{colors.bcolors.WARNING}Error: Content couldn't be retrieved.") # not sure whether the import of colors is correct
