@@ -27,8 +27,6 @@ class Scraper:
         
         if content:
             data = self.parser.parse_content(content)
-            """ for row in data: # TEST
-                print(row) # TEST """
             self.storage.save_in_csv(data) 
             print(f'{colors.bcolors.OKGREEN}\nData was scraped successfully.\nData stored in ../data/[filename].csv\n')
         else:

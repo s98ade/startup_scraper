@@ -1,21 +1,20 @@
 from bs4 import BeautifulSoup
 
-# Parser completely broken! Also look into csv-storing
+
 class Parser:
     def parse_content(self, content):
         soup = BeautifulSoup(content, 'html.parser')
         
         table = soup.find('tbody')
         
-        result = []
+        result = {}
         
         for row in table.find_all('tr'):
-            row_data = []
-        
-            for cell in row.find_all('td'):
-                cell_text = cell.get_text(strip=True)
-                row_data.append(cell_text)
-            
-            result.append(row_data)
-            
+            cells = row.find_all('td')
+
+            if len(cells) > 1:
+                company_name = cells[1].get_text(strip=True)
+                row_data = [cell.get_text(strip=True) for index, cell in enumerate(cells) if index != 1]
+                result[company_name] = row_data
+
         return result
