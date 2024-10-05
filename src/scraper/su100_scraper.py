@@ -18,7 +18,7 @@ class Scraper:
             status = requests.status_codes
             return self.url
         except requests.exceptions.RequestException as error:
-            print(f'{colors.bcolors.WARNING}Error fetching page: {error}\nStatus {status}')
+            print(f'{colors.bcolors.FAIL}\nError fetching page: {error}\nStatus {status}\n')
             return None
         
     
@@ -27,6 +27,9 @@ class Scraper:
         
         if content:
             data = self.parser.parse_content(content)
-            self.storage.save_in_csv(data)
+            """ for row in data: # TEST
+                print(row) # TEST """
+            self.storage.save_in_csv(data) 
+            print(f'{colors.bcolors.OKGREEN}\nData was scraped successfully.\nData stored in ../data/[filename].csv\n')
         else:
-            print(f"{colors.bcolors.WARNING}Error: Content couldn't be retrieved.") # not sure whether the import of colors is correct
+            print(f"{colors.bcolors.FAIL}\nError: Content couldn't be retrieved.\n") # not sure whether the import of colors is correct
