@@ -36,6 +36,7 @@
 -------------------------------------------------
 --TO-DO--
 -------------------------------------------------
+- change data storage from list to dictionary?
 - build classes -> (WebScraper, Parser, Logging, DataBase, etc.)
 - consider encapsulation -> what instances are going to be private, etc.
 - add logging file to document process and errors with timestamps (-> email or slack alerts)
@@ -46,3 +47,5 @@
 -------------------------------------------------
 24.09.2024 simple scraper for 'startup100' made -> get info of table on starting page and saves in csv-file, unprocessed
 28.09.2024 init class for first webscraper -> will be parent for other child scraper classes
+!!! 28.09.2024 parsing does not work as intended -> FIX NEEDED
+05.10.2024 FIX: parser fixed
