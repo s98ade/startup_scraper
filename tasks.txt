@@ -26,21 +26,23 @@
 -------------------------------------------------
 --OTHER IDEAS--
 -------------------------------------------------
+- add bash scripts for automatition and other useful functionality
 - for dynamic websites with interactive features, use Selenium or Playwright
 - add proxy rotation on websites with robot.txt files and handle authentication
 - store data in database
 (- add multithreading to do asynchronous scraping)
 - deploy to cloud (like AWS)
 - use Docker
+- implement LLM functionality (e.g. Notion uses AI to search the workplace for asked material)
 
 -------------------------------------------------
 --TO-DO--
 -------------------------------------------------
+- modify storage, so data does not get overwriten but new information added (and in existing rows old info overwriten)
 - build classes -> (WebScraper, Parser, Logging, DataBase, etc.)
 - consider encapsulation -> what instances are going to be private, etc.
 - add logging file to document process and errors with timestamps (-> email or slack alerts)
-- write cron job to automate scraper
-- modify storage, so data does not get overwriten but new information added (and in existing rows old info overwriten)
+- write cron job bash script to automate scraper
 
 -------------------------------------------------
 --UPDATES--
@@ -50,3 +52,4 @@
 !!! 28.09.2024 parsing does not work as intended -> FIX NEEDED
 05.10.2024 FIX: parser fixed
 05.10.2024 MODIFICATION: data stored in a dict
+13.10.2024 MODIFICATION: new data gets appended in file, duplicates are removed
