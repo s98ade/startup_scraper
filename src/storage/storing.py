@@ -2,7 +2,7 @@ import csv
 import os
 import pandas as pd
 
-from utils import colors
+from utils.colors import bcolors
 from log import Logging
 
 
@@ -59,12 +59,12 @@ class FileStorage:
             writer = csv.writer(file)
             writer.writerows(unique_data)
 
-        print(f"\n{colors.bcolors.OKBLUE}Duplicate rows removed.")
+        print(f"\n{bcolors.OKBLUE}Duplicate rows removed.")
      
                 
     def count_rows(self, filename):
         # needs expectation handling
          number_rows = pd.read_csv(filename)
          
-         print(f'{colors.bcolors.OKBLUE}-' * 30)
-         print(f"{colors.bcolors.OKBLUE}current number of rows: {len(number_rows) - 1}\n")
+         print(f'{bcolors.OKBLUE}-' * 30)
+         print(f"{bcolors.OKBLUE}current number of rows: {len(number_rows) - 1}\n")

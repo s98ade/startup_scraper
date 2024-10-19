@@ -1,13 +1,13 @@
 import unittest
 import requests_mock
 
-from scraper import su100_scraper
+from src.scraper.su100_scraper import Scraper
 
 
 class TestScraper(unittest.TestCase):
     def setUp(self):
         self.url = "http://example.com"
-        self.scraper = su100_scraper.Scraper(self.url)
+        self.scraper = Scraper(self.url)
         
     
     @requests_mock.Mocker()

@@ -62,4 +62,4 @@
 19.10.2024 FEATURE: Log added
 !!! 19.10.2024 logging creates duplicates !!!
 !!! 19.10.2024 some loggig of error handling is not sufficient e.g. when File error, it still prints 'data stored successfully' !!!
-!!! 19.10.2024 unittests are not working -> can't find modules (storage, parser, etc.)
+!!! 19.10.2024 tests are not working -> can't find modules (storage, parser, etc.) !!!

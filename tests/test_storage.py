@@ -1,11 +1,11 @@
 import unittest
 from unittest.mock import mock_open, patch
 
-from storage import storing
+from src.storage.storing import FileStorage
 
 class TestFileStorage(unittest.TestCase):
     def setUp(self):
-        self.file_storage = storing.FileStorage()
+        self.file_storage = FileStorage()
 
 
     @patch("builtins.open", new_callable=mock_open)

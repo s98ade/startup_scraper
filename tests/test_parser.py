@@ -1,10 +1,10 @@
 import unittest
-from parser import parser
+from src.parser.parser import Parser
 
 
 class TestParser(unittest.TestCase):
     def setUp(self):
-        self.parser = parser.Parser()
+        self.parser = Parser()
     
     
     def test_parse_content_success(self):
