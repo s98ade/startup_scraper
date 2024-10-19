@@ -15,3 +15,7 @@ The intention is to gradually iterate on the project, adding new features, so th
 - used libraries: BeautifulSoup, requests
 - data is stored locally in a .csv-file
 - script has to be run manually in the terminal
+
+**v1.1 (19102024)**
+- logging added; logs can be found @ data/logs/..
+- error handling fix

@@ -2,7 +2,12 @@ import requests
 
 from storage import storing
 from parser import parser
+from log import Logging
 from utils import colors
+
+
+log_instance = Logging()
+log = log_instance.get_logger()
 
 
 class Scraper:
@@ -14,12 +19,17 @@ class Scraper:
         
     def fetch_page(self, url):
         try:
+            log.info(f"Fetching data from: {self.url}")
             self.url = requests.get(url).text
             status = requests.status_codes
+            log.info(f"Data retrieved successfully.")
             return self.url
-        except requests.exceptions.RequestException as error:
-            print(f'{colors.bcolors.FAIL}\nError fetching page: {error}\nStatus {status}\n')
+        except requests.exceptions.HTTPError as http_err:
+            log.error(f"HTTP error: {http_err}")
+            print(f'{colors.bcolors.FAIL}\nError fetching page: {http_err}\nStatus {status}\n')
             return None
+        except Exception as err:
+            log.error(f"Error: {err}")
         
     
     def scrape(self):

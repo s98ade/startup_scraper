@@ -27,6 +27,7 @@
 --OTHER IDEAS--
 -------------------------------------------------
 - add bash scripts for automatition and other useful functionality
+- write unit tests (and automize it)
 - for dynamic websites with interactive features, use Selenium or Playwright
 - add proxy rotation on websites with robot.txt files and handle authentication
 - store data in database
@@ -38,11 +39,14 @@
 -------------------------------------------------
 --TO-DO--
 -------------------------------------------------
-- modify storage, so data does not get overwriten but new information added (and in existing rows old info overwriten)
+- error handling
+- change hardcoded file-creation and management
+- add logging file to document process and errors with timestamps [DONE]
+    -> transfer all alerts to log function
 - build classes -> (WebScraper, Parser, Logging, DataBase, etc.)
 - consider encapsulation -> what instances are going to be private, etc.
-- add logging file to document process and errors with timestamps (-> email or slack alerts)
 - write cron job bash script to automate scraper
+- write tests
 
 -------------------------------------------------
 --UPDATES--
@@ -52,4 +56,8 @@
 !!! 28.09.2024 parsing does not work as intended -> FIX NEEDED
 05.10.2024 FIX: parser fixed
 05.10.2024 MODIFICATION: data stored in a dict
-13.10.2024 MODIFICATION: new data gets appended in file, duplicates are removed
+13.10.2024 MODIFICATION: new data gets appended in file, duplicates are removed 
+--- 13.10.2024 stored data still looks ugly ---
+19.10.2024 FEATURE: Log added
+!!! 19.10.2024 logging creates duplicates !!!
+!!! 19.10.2024 some loggig of error handling is not sufficient e.g. when File error, it still prints 'data stored successfully' !!!

@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-
+# needs error handling in edge cases like does not found 'tbody' or other components
 class Parser:
     def parse_content(self, content):
         soup = BeautifulSoup(content, 'html.parser')

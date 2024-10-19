@@ -1,0 +1,10 @@
+2024-10-19 17:20:54 - INFO - Fetching data from: https://startup100.net/
+2024-10-19 17:20:54 - INFO - Fetching data from: https://startup100.net/
+2024-10-19 17:20:54 - INFO - Data retrieved successfully.
+2024-10-19 17:20:54 - INFO - Data retrieved successfully.
+2024-10-19 17:20:54 - ERROR - File error: [Errno 2] No such file or directory: '../data/startup100.csv'
+2024-10-19 17:20:54 - ERROR - File error: [Errno 2] No such file or directory: '../data/startup100.csv'
+2024-10-19 17:22:42 - INFO - Fetching data from: https://startup100.net/
+2024-10-19 17:22:42 - INFO - Fetching data from: https://startup100.net/
+2024-10-19 17:22:43 - INFO - Data retrieved successfully.
+2024-10-19 17:22:43 - INFO - Data retrieved successfully.
