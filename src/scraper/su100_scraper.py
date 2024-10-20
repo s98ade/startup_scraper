@@ -20,16 +20,19 @@ class Scraper:
     def fetch_page(self, url):
         try:
             log.info(f"Fetching data from: {self.url}")
-            self.url = requests.get(url).text
-            status = requests.status_codes
+            response = requests.get(self.url)
+            response.raise_for_status()
             log.info(f"Data retrieved successfully.")
-            return self.url
+            return response.text
+        
         except requests.exceptions.HTTPError as http_err:
             log.error(f"HTTP error: {http_err}")
-            print(f'{bcolors.FAIL}\nError fetching page: {http_err}\nStatus {status}\n')
+            print(f'{bcolors.FAIL}\nError fetching page: {http_err}\n')
             return None
+        
         except Exception as err:
             log.error(f"Error: {err}")
+            return None
         
     
     def scrape(self):

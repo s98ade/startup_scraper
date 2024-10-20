@@ -1,5 +1,9 @@
 import unittest
 from unittest.mock import mock_open, patch
+import os
+import sys
+
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../src'))) #should solve path issue
 
 from src.storage.storing import FileStorage
 
