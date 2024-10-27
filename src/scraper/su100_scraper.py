@@ -41,6 +41,7 @@ class Scraper:
         if content:
             data = self.parser.parse_content(content)
             self.storage.save_in_csv(data) 
+            self.storage.save_in_json(data)
             print(f'{bcolors.OKGREEN}\nData was scraped successfully.\nData stored in ../data/[filename].csv\n')
         else:
             print(f"{bcolors.FAIL}\nError: Content couldn't be retrieved.\n") # not sure whether the import of colors is correct

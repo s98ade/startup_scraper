@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
-from src.utils.colors import bcolors
-from src.log import Logging
+from utils.colors import bcolors
+from log import Logging
 
 
 log_instance = Logging()
@@ -22,9 +22,17 @@ class Parser:
 
                 if len(cells) > 1:
                     company_name = cells[1].get_text(strip=True)
-                    row_data = [cell.get_text(strip=True) for index, cell in enumerate(cells) if index != 1]
-                    result[company_name] = row_data
-                    
+                    company_data = {
+                        "Company": company_name,
+                        "S100 Index": cells[2].get_text(strip=True),
+                        "Category": cells[3].get_text(strip=True),
+                        "Founding Year": cells[4].get_text(strip=True),
+                        "Location": cells[5].get_text(strip=True),
+                        "Funding": cells[6].get_text(strip=True),
+                        "Revenue": cells[7].get_text(strip=True),
+                        "Business ID": cells[8].get_text(strip=True)
+                    }
+                    result[company_name] = company_data             
         except AttributeError as e:
             log.error(f"Table not found: {e}")
             print(f"{bcolors.FAIL}Error: Table not found!\n")

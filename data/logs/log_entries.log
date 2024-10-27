@@ -162,3 +162,21 @@
 2024-10-20 15:53:55 - ERROR - File error: 
 2024-10-20 15:53:55 - ERROR - File error: 
 2024-10-20 15:53:55 - ERROR - File error: 
+2024-10-27 14:50:44 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 14:50:44 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 14:50:44 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 14:50:47 - INFO - Data retrieved successfully.
+2024-10-27 14:50:47 - INFO - Data retrieved successfully.
+2024-10-27 14:50:47 - INFO - Data retrieved successfully.
+2024-10-27 14:50:47 - ERROR - File error: unhashable type: 'slice'
+2024-10-27 14:50:47 - ERROR - File error: unhashable type: 'slice'
+2024-10-27 14:50:47 - ERROR - File error: unhashable type: 'slice'
+2024-10-27 14:54:22 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 14:54:22 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 14:54:22 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 14:54:23 - INFO - Data retrieved successfully.
+2024-10-27 14:54:23 - INFO - Data retrieved successfully.
+2024-10-27 14:54:23 - INFO - Data retrieved successfully.
+2024-10-27 14:54:23 - ERROR - [91mFile error: unhashable type: 'slice'
+2024-10-27 14:54:23 - ERROR - [91mFile error: unhashable type: 'slice'
+2024-10-27 14:54:23 - ERROR - [91mFile error: unhashable type: 'slice'

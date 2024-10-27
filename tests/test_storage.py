@@ -7,12 +7,13 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../s
 
 from src.storage.storing import FileStorage
 
+
 class TestFileStorage(unittest.TestCase):
     def setUp(self):
         self.file_storage = FileStorage()
 
-
-    @patch("builtins.open", new_callable=mock_open)
+    # allows to simulate certain behaviors without performing actual I/O operations
+    @patch("builtins.open", new_callable=mock_open) #mock_open: a helper function to create a mock to replace open()
     def test_save_in_csv(self, mock_file):
         data = {
             'Pibox': ['1. (141)', '667'],

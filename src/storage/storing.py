@@ -1,4 +1,5 @@
 import csv
+import json
 import os
 import pandas as pd
 
@@ -14,39 +15,43 @@ class FileStorage:
     def save_in_csv(self, data, filename='data/startup100.csv'): # hardcoded, have to change later
         try:
             current_file = os.path.isfile(filename)
-            #append mode
-            with open(filename, mode='a', newline='', encoding='utf-8') as file:
+            
+            with open(filename, mode='a', newline='', encoding='utf-8') as file: #append mode
                 writer = csv.writer(file)
             
                 if not current_file:
-                    # Write the header (optional, depending on your data)
-                    writer.writerow(["Company", "Data"])
-                
-                # Iterate over the dictionary and write each company's data
-                for company_name, row_data in data.items():
+                    writer.writerow(["Company", "Data"])# Write the header (optional, depending on your data)
+
+                for company_name, row_data in data.items():# Iterate over the dictionary and write each company's data
                     filtered_row = row_data[1:]
                     writer.writerow([company_name] + filtered_row)
                 
                 self.clean_csv(filename)
-                self.count_rows(filename)  
-                
+                self.count_rows(filename)          
         except Exception as e:
-            log.error(f"File error: {e}")
-            print("Error: File storage\n")  
+            log.error(f"{bcolors.FAIL}File error: {e}")
+            print(f"{bcolors.FAIL}Error: File storage\n") 
+            
+        
+    def save_in_json(self, data, filename='data/startup100.json'):
+        try:
+            with open(filename, mode='a', newline='', encoding='utf-8') as file:
+                json.dump(data, file, ensure_ascii=False, indent=4)        
+        except Exception as e:
+            log.error(f"{bcolors.FAIL}File error: {e}")
+            print(f"{bcolors.FAIL}Error: Json storage\n") 
             
             
     def clean_csv(self, filename='../data/startup100.csv'): #hardcoded, needs change
         unique_data = []  # To store unique rows
         seen = set()  # To track company names (or entire rows) we have already seen
 
-        # Read the file
         with open(filename, mode='r', newline='', encoding='utf-8') as file:
             reader = csv.reader(file)
             header = next(reader)  # Assume first row is header
 
             unique_data.append(header)  # Keep the header
 
-            # Iterate through each row
             for row in reader:
                 company_name = row[0]  # Assuming first column is the company name
 
@@ -54,8 +59,7 @@ class FileStorage:
                     seen.add(company_name)  # Mark this company as seen
                     unique_data.append(row)  # Add the row to unique data
 
-        # Overwrite the file with only unique rows
-        with open(filename, mode='w', newline='', encoding='utf-8') as file:
+        with open(filename, mode='w', newline='', encoding='utf-8') as file:# Overwrite the file with only unique rows
             writer = csv.writer(file)
             writer.writerows(unique_data)
 
