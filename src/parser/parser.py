@@ -1,3 +1,4 @@
+import re
 from bs4 import BeautifulSoup
 
 from utils.colors import bcolors
@@ -7,7 +8,7 @@ from log import Logging
 log_instance = Logging()
 log = log_instance.get_logger()
 
-# needs error handling in edge cases like does not found 'tbody' or other components
+
 class Parser:
     def parse_content(self, content):
         soup = BeautifulSoup(content, 'html.parser')
@@ -29,7 +30,7 @@ class Parser:
                         "Founding Year": cells[4].get_text(strip=True),
                         "Location": cells[5].get_text(strip=True),
                         "Funding": cells[6].get_text(strip=True),
-                        "Revenue": cells[7].get_text(strip=True),
+                        "Revenue": re.sub(r'\s+', ' ', cells[7].get_text(strip=True)).replace('\n', ' ').strip(),
                         "Business ID": cells[8].get_text(strip=True)
                     }
                     result[company_name] = company_data             

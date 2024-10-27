@@ -42,12 +42,13 @@
 -------------------------------------------------
 - error handling
 - change hardcoded file-creation and management
-- add logging file to document process and errors with timestamps [DONE]
+- figure out way to retrieve url-link from company name
+[DONE] add logging file to document process and errors with timestamps [DONE]
     -> transfer all alerts to log function
-- build classes -> (WebScraper, Parser, Logging, DataBase, etc.) [DONEish]
+[DONEish] build classes -> (WebScraper, Parser, Logging, DataBase, etc.) [DONEish]
 - consider encapsulation -> what instances are going to be private, etc.
 - write cron job bash script to automate scraper
-- write tests
+[DONEish] write tests [DONEish]
 - add dependecies and stuff
 
 -------------------------------------------------
@@ -64,3 +65,5 @@
 !!! 19.10.2024 logging creates duplicates !!!
 !!! 19.10.2024 some loggig of error handling is not sufficient e.g. when File error, it still prints 'data stored successfully' !!!
 !!! 19.10.2024 tests are not working -> can't find modules (storage, parser, etc.) !!!
+27.10.2024 FEATURE: data saved in json format
+27.10.2024 FIX: csv data not ugly anymore (removed hidden newline)

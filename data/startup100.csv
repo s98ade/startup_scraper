@@ -1,231 +1,101 @@
-Company,Data
-Pibox,667,Music & Digital Entertainment,2018,Helsinki,0.56 M€,"152,228 €
-                (2023)",2921507-2
-Dobbelgänger,277,Military & Dual-Use,2022,Oulu,Crunchbase,"72,882 €
-                (2023)",3317524-5
-Darkglass Electronics,1039,Hardware & Devices,2022,Helsinki,Crunchbase,"5,003,807 €
-                (2024)",3260036-9
+Company,S100 Index,Category,Founding Year,Location,Funding,Revenue,Business ID
+Pibox,667,Music & Digital Entertainment,2018,Helsinki,0.56 M€,"152,228 € (2023)",2921507-2
+Dobbelgänger,277,Military & Dual-Use,2022,Oulu,Crunchbase,"72,882 € (2023)",3317524-5
+Darkglass Electronics,1039,Hardware & Devices,2022,Helsinki,Crunchbase,"5,003,807 € (2024)",3260036-9
 AIContentfy,1543,"SaaS/AdTech, MarTech, E-commerce",2023,Espoo,Crunchbase,N/A,3351759-1
-Anyhau,213,,2021,Espoo,Crunchbase,"795 €
-                (2023)",3247778-6
-Party Bugs,468,Food & Beverage Technology,2018,Helsinki,Crunchbase,"19,137 €
-                (2023)",2904432-2
-Kendis,531,SaaS/Software Development & Ops,2018,Helsinki,Crunchbase,"862,921 €
-                (2023)",2874062-5
-Iiwari,296,Building & Construction,2018,Vuokatti,1.47 M€,"175,019 €
-                (2023)",2899575-9
-Nordtreat,308,Material Technology,2018,Vantaa,10.46 M€,"1,309,006 €
-                (2022)",2927144-5
-ReceiptHero,523,SaaS/Business Software,2018,Tampere,5.75 M€,"241,176 €
-                (2023)",2943241-3
-Made of Sundays,555,Other Consumer Technology,2015,Helsinki,Crunchbase,"363,245 €
-                (2023)",2711521-1
-https://www.vertaaensin.fi/,781,Finance Technology,2015,Helsinki,Crunchbase,"3,067,828 €
-                (2023)",2703614-2
-Chipmetrics,559,Industrial Equipment,2019,Joensuu,2.27 M€,"615,765 €
-                (2023)",3101031-6
-OpenCO2.net,454,SaaS/Business Software,2016,Espoo,Crunchbase,"411,899 €
-                (2023)",2796796-7
-PipeCloud,194,Industrial Equipment,2017,Raisio,Crunchbase,"229,315 €
-                (2023)",2856930-3
+Anyhau,213,,2021,Espoo,Crunchbase,795 € (2023),3247778-6
+Party Bugs,468,Food & Beverage Technology,2018,Helsinki,Crunchbase,"24,467 € (2024)",2904432-2
+Kendis,531,SaaS/Software Development & Ops,2018,Helsinki,Crunchbase,"862,921 € (2023)",2874062-5
+Iiwari,296,Building & Construction,2018,Vuokatti,1.47 M€,"175,019 € (2023)",2899575-9
+Nordtreat,308,Material Technology,2018,Vantaa,10.46 M€,"1,309,006 € (2022)",2927144-5
+ReceiptHero,523,SaaS/Business Software,2018,Tampere,5.75 M€,"241,176 € (2023)",2943241-3
+Made of Sundays,555,Other Consumer Technology,2015,Helsinki,Crunchbase,"363,245 € (2023)",2711521-1
+https://www.vertaaensin.fi/,781,Finance Technology,2015,Helsinki,Crunchbase,"3,067,828 € (2023)",2703614-2
+Chipmetrics,559,Industrial Equipment,2019,Joensuu,2.27 M€,"615,765 € (2023)",3101031-6
+OpenCO2.net,454,SaaS/Business Software,2016,Espoo,Crunchbase,"411,899 € (2023)",2796796-7
+PipeCloud,194,Industrial Equipment,2017,Raisio,Crunchbase,"229,315 € (2023)",2856930-3
 ForteAI,193,Other Consumer Software & Apps,2022,Joensuu,0.4 M€,N/A,3316458-9
-Hookle,681,SaaS/Business Software,2017,Helsinki,0.8 M€,"39,441 €
-                (2023)",2853534-9
-Neuro Event Labs,317,Health & Medical Technology,2015,Tampere,6.42 M€,"829,941 €
-                (2023)",2712284-1
-Uoma,203,,2016,Tampere,Crunchbase,"1,086,442 €
-                (2023)",2771536-4
-Onego Bio,581,Food & Beverage Technology,2022,Helsinki,61.83 M€,N/A,3260781-9
-Memocate,246,Health & Medical Technology,2017,Tampere,0.1 M€,"2,267 €
-                (2023)",2832002-2
-Zenny,179,SaaS/Business Software,2022,Vaasa,Crunchbase,"327,102 €
-                (2023)",3309464-8
-eMabler,273,Mobility & Vehicles,2019,Helsinki,2.78 M€,"349,215 €
-                (2023)",3021922-2
-Meluta,245,Industrial Equipment,2015,Tampere,Crunchbase,"34,647 €
-                (2023)",2683932-2
-Volare,391,Food & Beverage Technology,2021,Hyvinkää,0.73 M€,"16,815 €
-                (2023)",3200110-4
-HTM Solutions,274,Other own IPR,2021,Espoo,Crunchbase,"701 €
-                (2023)",3205278-8
-Inven,839,SaaS/Business Software,2022,Helsinki,Crunchbase,"119,164 €
-                (2023)",3260222-5
-Finnos,342,Industrial Equipment,2016,Lappeenranta,Crunchbase,"14,541,398 €
-                (2023)",2756133-4
-CooliBlade,294,Industrial Equipment,2021,Oulu,0.74 M€,"203,628 €
-                (2023)",3201724-5
-Fleetrange,231,SaaS/Business Software,2016,Espoo,Crunchbase,"236,386 €
-                (2023)",2790804-3
-Synergi,248,Energy Technology,2022,Helsinki,0.73 M€,"1,197 €
-                (2023)",3306817-5
-Carbofex,497,Climate Technology,2016,Nokia,Crunchbase,"1,491,096 €
-                (2023)",2776845-8
-Xiphera,443,SaaS/Software Development & Ops,2017,Espoo,0.44 M€,"295,950 €
-                (2023)",2843339-3
-Book Salon,1302,SaaS/Business Software,2016,Helsinki,3.87 M€,"1,130,644 €
-                (2023)",2786121-4
-Kuva Space,706,Space Technology,2016,Espoo,22.21 M€,"1,176,055 €
-                (2023)",2759225-3
-Woamy,273,Material Technology,2022,Espoo,0.94 M€,"35,390 €
-                (2023)",3289841-7
+Hookle,681,SaaS/Business Software,2017,Helsinki,0.8 M€,"39,441 € (2023)",2853534-9
+Neuro Event Labs,317,Health & Medical Technology,2015,Tampere,6.42 M€,"829,941 € (2023)",2712284-1
+Uoma,203,,2016,Tampere,Crunchbase,"1,086,442 € (2023)",2771536-4
+Onego Bio,581,Food & Beverage Technology,2022,Helsinki,61.81 M€,N/A,3260781-9
+Memocate,246,Health & Medical Technology,2017,Tampere,0.1 M€,"2,267 € (2023)",2832002-2
+Zenny,179,SaaS/Business Software,2022,Vaasa,Crunchbase,"327,102 € (2023)",3309464-8
+eMabler,273,Mobility & Vehicles,2019,Helsinki,2.78 M€,"349,215 € (2023)",3021922-2
+Meluta,245,Industrial Equipment,2015,Tampere,Crunchbase,"34,647 € (2023)",2683932-2
+Volare,391,Food & Beverage Technology,2021,Hyvinkää,0.73 M€,"16,815 € (2023)",3200110-4
+HTM Solutions,274,Other own IPR,2021,Espoo,Crunchbase,701 € (2023),3205278-8
+Inven,839,SaaS/Business Software,2022,Helsinki,Crunchbase,"119,164 € (2023)",3260222-5
+Finnos,342,Industrial Equipment,2016,Lappeenranta,Crunchbase,"14,541,398 € (2023)",2756133-4
+CooliBlade,294,Industrial Equipment,2021,Oulu,0.74 M€,"203,628 € (2023)",3201724-5
+Fleetrange,231,SaaS/Business Software,2016,Espoo,Crunchbase,"236,386 € (2023)",2790804-3
+Synergi,248,Energy Technology,2022,Helsinki,2.63 M€,"1,197 € (2023)",3306817-5
+Carbofex,497,Climate Technology,2016,Nokia,Crunchbase,"1,491,096 € (2023)",2776845-8
+Xiphera,443,SaaS/Software Development & Ops,2017,Espoo,0.44 M€,"295,950 € (2023)",2843339-3
+Book Salon,1302,SaaS/Business Software,2016,Helsinki,3.87 M€,"1,130,644 € (2023)",2786121-4
+Kuva Space,706,Space Technology,2016,Espoo,22.21 M€,"1,176,055 € (2023)",2759225-3
+Woamy,273,Material Technology,2022,Espoo,0.94 M€,"35,390 € (2023)",3289841-7
 ReMinded,159,Health & Medical Technology,2023,Helsinki,Crunchbase,N/A,3383370-3
-NorthBase,215,,2019,Tampere,Crunchbase,"0 €
-                (2020)",3102639-3
-Kelosound,237,Other Consumer Technology,2017,Espoo,Crunchbase,"12,455 €
-                (2023)",2804513-9
-Carbonaide,382,Climate Technology,2022,Joensuu,1.7 M€,"34,859 €
-                (2023)",3326768-4
-Fiellberg,175,Industrial Equipment,2015,Vantaa,Crunchbase,"4,167,796 €
-                (2023)",2729813-4
-Sensofusion,278,,2016,Vantaa,Crunchbase,"7,235,609 €
-                (2023)",2757722-1
-Zyfra,798,SaaS/Business Software,2018,Helsinki,11.61 M€,"555,969 €
-                (2020)",2880023-7
+NorthBase,215,,2019,Tampere,Crunchbase,0 € (2020),3102639-3
+Kelosound,237,Other Consumer Technology,2017,Espoo,Crunchbase,"12,455 € (2023)",2804513-9
+Carbonaide,382,Climate Technology,2022,Joensuu,1.7 M€,"34,859 € (2023)",3326768-4
+Fiellberg,175,Industrial Equipment,2015,Vantaa,Crunchbase,"4,167,796 € (2023)",2729813-4
+Sensofusion,278,,2016,Vantaa,Crunchbase,"7,235,609 € (2023)",2757722-1
+Zyfra,798,SaaS/Business Software,2018,Helsinki,11.61 M€,"555,969 € (2020)",2880023-7
 LastBot,223,"SaaS/AdTech, MarTech, E-commerce",2023,Helsinki,Crunchbase,N/A,3361305-7
-Sellbery,788,SaaS/Business Software,2017,Helsinki,1.39 M€,"606,860 €
-                (2021)",2841075-7
+Sellbery,788,SaaS/Business Software,2017,Helsinki,1.39 M€,"606,860 € (2021)",2841075-7
 Amistech Games,613,Gaming,2016,Turku,Crunchbase,N/A,2785452-4
-Helppy,430,Health & Medical Technology,2018,Helsinki,3.18 M€,"2,107,167 €
-                (2023)",2910554-3
-6D Tape,237,"Wellness, Fitness & Sports",2016,Sipoo,Crunchbase,"80,324 €
-                (2023)",2762626-5
-Dentafit,196,"Wellness, Fitness & Sports",2017,Helsinki,Crunchbase,"0 €
-                (2023)",2822320-6
-Apiable,438,SaaS/Software Development & Ops,2020,Helsinki,0.43 M€,"9,417 €
-                (2023)",3129965-8
-Healthzilla,197,Other Consumer Software & Apps,2019,Rauma,Crunchbase,"0 €
-                (2021)",3021664-6
-Kindfull,189,Health & Medical Technology,2017,Tampere,0.2 M€,"42,537 €
-                (2020)",2808780-6
-Palonot,155,Building & Construction,2016,Espoo,Crunchbase,"366,683 €
-                (2021)",2752760-3
-KOULU Education Group,147,Education Technology,2014,Littoinen,Crunchbase,"6,090 €
-                (2021)",2655429-8
-Swappie,1384,Marketplaces,2015,Helsinki,163.35 M€,"207,321,651 €
-                (2023)",2692328-4
-Vapaus,618,Mobility & Vehicles,2018,Helsinki,17.19 M€,"24,876,066 €
-                (2023)",2879502-8
-Maketrade,183,Other Consumer Software & Apps,2022,Helsinki,Crunchbase,"64 €
-                (2023)",3321202-6
-SoilWatch,271,Clean & Green Technology,2022,Köörtilä,Crunchbase,"71,457 €
-                (2023)",3258182-3
+Helppy,430,Health & Medical Technology,2018,Helsinki,3.18 M€,"2,107,167 € (2023)",2910554-3
+6D Tape,237,"Wellness, Fitness & Sports",2016,Sipoo,Crunchbase,"80,324 € (2023)",2762626-5
+Dentafit,196,"Wellness, Fitness & Sports",2017,Helsinki,Crunchbase,0 € (2023),2822320-6
+Apiable,438,SaaS/Software Development & Ops,2020,Helsinki,0.43 M€,"9,417 € (2023)",3129965-8
+Healthzilla,197,Other Consumer Software & Apps,2019,Rauma,Crunchbase,0 € (2021),3021664-6
+Kindfull,189,Health & Medical Technology,2017,Tampere,0.2 M€,"42,537 € (2020)",2808780-6
+Palonot,155,Building & Construction,2016,Espoo,Crunchbase,"366,683 € (2021)",2752760-3
+KOULU Education Group,147,Education Technology,2014,Littoinen,Crunchbase,"6,090 € (2021)",2655429-8
+Swappie,1384,Marketplaces,2015,Helsinki,163.35 M€,"207,321,651 € (2023)",2692328-4
+Vapaus,618,Mobility & Vehicles,2018,Helsinki,17.19 M€,"24,876,066 € (2023)",2879502-8
+Maketrade,183,Other Consumer Software & Apps,2022,Helsinki,Crunchbase,64 € (2023),3321202-6
+SoilWatch,271,Clean & Green Technology,2022,Köörtilä,Crunchbase,"71,457 € (2023)",3258182-3
 Oncarbon,286,SaaS/Travel & Hospitality,2021,Ikaalinen,0.33 M€,N/A,3220851-9
-Suvanto Care,316,Other Consumer Software & Apps,2014,Rovaniemi,Crunchbase,"1,747,797 €
-                (2023)",2654350-5
-Aetlan,185,Energy Technology,2019,Espoo,Crunchbase,"13,360 €
-                (2021)",3000935-6
-Corle,153,,2017,Helsinki,Crunchbase,"4,235 €
-                (2023)",2843002-9
-Neural DSP Technologies,1599,Music & Digital Entertainment,2017,Helsinki,5.72 M€,"27,281,073 €
-                (2023)",2847533-1
-Membrane Finance,492,Crypto & Blockchain,2021,Helsinki,1.83 M€,"209,445 €
-                (2023)",3236886-2
-MAJ,293,Marketplaces,2016,Tampere,Crunchbase,"273,404 €
-                (2023)",2778536-2
-Moder,634,SaaS/Travel & Hospitality,2020,Helsinki,0.73 M€,"341,779 €
-                (2023)",3141855-7
+Suvanto Care,316,Other Consumer Software & Apps,2014,Rovaniemi,Crunchbase,"1,747,797 € (2023)",2654350-5
+Aetlan,185,Energy Technology,2019,Espoo,Crunchbase,"13,360 € (2021)",3000935-6
+Corle,153,,2017,Helsinki,Crunchbase,"4,235 € (2023)",2843002-9
+Neural DSP Technologies,1599,Music & Digital Entertainment,2017,Helsinki,5.72 M€,"27,281,073 € (2023)",2847533-1
+Membrane Finance,492,Crypto & Blockchain,2021,Helsinki,1.83 M€,"209,445 € (2023)",3236886-2
+MAJ,293,Marketplaces,2016,Tampere,Crunchbase,"273,404 € (2023)",2778536-2
+Moder,634,SaaS/Travel & Hospitality,2020,Helsinki,0.73 M€,"341,779 € (2023)",3141855-7
 Maculaser,259,Health & Medical Technology,2020,Espoo,1.04 M€,N/A,3160009-2
-Taika3D,230,Health & Medical Technology,2018,Espoo,Crunchbase,"506,307 €
-                (2023)",2934271-7
+Taika3D,230,Health & Medical Technology,2018,Espoo,Crunchbase,"506,307 € (2023)",2934271-7
 Lekatech,182,Industrial Equipment,2018,Kausala,6.33 M€,N/A,2911472-2
-Eezery Enterprise,166,,2017,Riihimäki,Crunchbase,"458,426 €
-                (2022)",2802719-2
-Neyra,144,,2019,Helsinki,0.1 M€,"25,299 €
-                (2021)",2994208-5
-Operating,267,SaaS/Business Software,2021,Helsinki,Crunchbase,"33,763 €
-                (2023)",3189163-5
+Eezery Enterprise,166,,2017,Riihimäki,Crunchbase,"458,426 € (2022)",2802719-2
+Neyra,144,,2019,Helsinki,0.1 M€,"25,299 € (2021)",2994208-5
+Operating,267,SaaS/Business Software,2021,Helsinki,Crunchbase,"33,763 € (2023)",3189163-5
 Flow Computing,669,Hardware & Devices,2023,Helsinki,3.73 M€,N/A,3410639-9
-Fun Academy,461,Education Technology,2015,Vantaa,Crunchbase,"144,004 €
-                (2023)",2702454-7
-Hycamite,457,Climate Technology,2020,Kokkola,33.73 M€,"315 €
-                (2023)",3108281-1
-Hei.io,492,,2022,Helsinki,Crunchbase,"139,693 €
-                (2023)",3280382-8
-Sulapac,931,Material Technology,2016,Helsinki,18.19 M€,"2,124,668 €
-                (2023)",2739393-2
-Cumucore,385,SaaS/Business Software,2015,Espoo,Crunchbase,"57,002 €
-                (2023)",2661729-5
-Sam Corporation,195,Education Technology,2022,,Crunchbase,"30,340 €
-                (2023)",3251840-2
-Cerenion,301,,2017,Oulu,5.57 M€,"43,787 €
-                (2023)",2832753-1
-Physilect,147,Health & Medical Technology,2015,Helsinki,Crunchbase,"94,077 €
-                (2022)",2730708-8
-IVALO,602,Other Consumer Software & Apps,2015,Helsinki,0.14 M€,"708,807 €
-                (2023)",2693545-3
-HappySignals,601,SaaS/Business Software,2014,Helsinki,16.94 M€,"4,415,919 €
-                (2023)",2643260-2
-Tiitus,458,,2016,Turku,Crunchbase,"335,573 €
-                (2023)",2736664-3
-Neuwo,333,"SaaS/AdTech, MarTech, E-commerce",2022,Jyväskylä,Crunchbase,"200,110 €
-                (2023)",3280995-5
-Yonoton,320,Other Consumer Software & Apps,2016,Helsinki,Crunchbase,"1,672,197 €
-                (2023)",2732822-5
-Ainak,297,SaaS/Business Software,2018,Huhmari,Crunchbase,"67,680 €
-                (2023)",2925129-2
-Valossa,701,SaaS/Business Software,2015,Oulu,2.3 M€,"653,701 €
-                (2022)",2718321-4
-Unikie,652,SaaS/Business Software,2015,Tampere,12.38 M€,"64,881,596 €
-                (2023)",2679881-5
-Front AI,344,,2019,Helsinki,2.38 M€,"2,354,455 €
-                (2023)",2990106-4
-Cover Story,282,Building & Construction,2020,Helsinki,Crunchbase,"480,952 €
-                (2022)",3132585-2
-Phaver,917,Other Consumer Software & Apps,2019,Helsinki,7.51 M€,"1,904,533 €
-                (2023)",3019296-3
-Custobar,696,SaaS/Business Software,2014,Helsinki,0.35 M€,"3,304,289 €
-                (2022)",2645106-1
-Eventz Today,400,Other Consumer Software & Apps,2015,Helsinki,Crunchbase,"246,394 €
-                (2023)",2700656-8
-Taiga Concept,321,Fashion & Design Technology,2015,Kuopio,Crunchbase,"4,500,679 €
-                (2023)",2696176-6
+Fun Academy,461,Education Technology,2015,Vantaa,Crunchbase,"144,004 € (2023)",2702454-7
+Hycamite,457,Climate Technology,2020,Kokkola,33.73 M€,315 € (2023),3108281-1
+Hei.io,492,,2022,Helsinki,Crunchbase,"139,693 € (2023)",3280382-8
+Sulapac,931,Material Technology,2016,Helsinki,18.19 M€,"2,124,668 € (2023)",2739393-2
+Cumucore,385,SaaS/Business Software,2015,Espoo,Crunchbase,"57,002 € (2023)",2661729-5
+Sam Corporation,195,Education Technology,2022,,Crunchbase,"30,340 € (2023)",3251840-2
+Cerenion,301,,2017,Oulu,5.57 M€,"43,787 € (2023)",2832753-1
+Physilect,147,Health & Medical Technology,2015,Helsinki,Crunchbase,"94,077 € (2022)",2730708-8
+IVALO,602,Other Consumer Software & Apps,2015,Helsinki,0.14 M€,"708,807 € (2023)",2693545-3
+HappySignals,601,SaaS/Business Software,2014,Helsinki,16.94 M€,"4,415,919 € (2023)",2643260-2
+Tiitus,458,,2016,Turku,Crunchbase,"335,573 € (2023)",2736664-3
+Neuwo,333,"SaaS/AdTech, MarTech, E-commerce",2022,Jyväskylä,Crunchbase,"200,110 € (2023)",3280995-5
+Yonoton,320,Other Consumer Software & Apps,2016,Helsinki,Crunchbase,"1,672,197 € (2023)",2732822-5
+Ainak,297,SaaS/Business Software,2018,Huhmari,Crunchbase,"67,680 € (2023)",2925129-2
+Valossa,701,SaaS/Business Software,2015,Oulu,2.3 M€,"653,701 € (2022)",2718321-4
+Unikie,652,SaaS/Business Software,2015,Tampere,12.38 M€,"64,881,596 € (2023)",2679881-5
+Front AI,344,,2019,Helsinki,2.38 M€,"2,354,455 € (2023)",2990106-4
+Cover Story,282,Building & Construction,2020,Helsinki,Crunchbase,"480,952 € (2022)",3132585-2
+Phaver,917,Other Consumer Software & Apps,2019,Helsinki,7.51 M€,"1,904,533 € (2023)",3019296-3
+Custobar,696,SaaS/Business Software,2014,Helsinki,0.35 M€,"3,304,289 € (2022)",2645106-1
+Eventz Today,400,Other Consumer Software & Apps,2015,Helsinki,Crunchbase,"246,394 € (2023)",2700656-8
+Taiga Concept,321,Fashion & Design Technology,2015,Kuopio,Crunchbase,"4,500,679 € (2023)",2696176-6
 Tablebed,311,Hardware & Devices,2017,Turku,Crunchbase,N/A,2820085-6
-Wonsta,217,SaaS/Software Development & Ops,2021,Helsinki,Crunchbase,"8,944 €
-                (2021)",3204106-9
-thtRobotics,158,Hardware & Devices,2019,Vantaa,2.09 M€,"0 €
-                (2024)",2989304-1
-Shipit,577,Industrial Equipment,2015,Mariehamn,Crunchbase,"7,318,590 €
-                (2024)",2705721-8
-Bellylabs,280,Health & Medical Technology,2017,Helsinki,Crunchbase,"430,975 €
-                (2023)",2818331-2
-Cerenion,301,,2017,Oulu,5.57 M€,"43,787 €
-                (2023)",2832753-1
-Physilect,147,Health & Medical Technology,2015,Helsinki,Crunchbase,"94,077 €
-                (2022)",2730708-8
-IVALO,602,Other Consumer Software & Apps,2015,Helsinki,0.14 M€,"708,807 €
-                (2023)",2693545-3
-HappySignals,601,SaaS/Business Software,2014,Helsinki,16.94 M€,"4,415,919 €
-                (2023)",2643260-2
-Tiitus,458,,2016,Turku,Crunchbase,"335,573 €
-                (2023)",2736664-3
-Neuwo,333,"SaaS/AdTech, MarTech, E-commerce",2022,Jyväskylä,Crunchbase,"200,110 €
-                (2023)",3280995-5
-Yonoton,320,Other Consumer Software & Apps,2016,Helsinki,Crunchbase,"1,672,197 €
-                (2023)",2732822-5
-Ainak,297,SaaS/Business Software,2018,Huhmari,Crunchbase,"67,680 €
-                (2023)",2925129-2
-Valossa,701,SaaS/Business Software,2015,Oulu,2.3 M€,"653,701 €
-                (2022)",2718321-4
-Unikie,652,SaaS/Business Software,2015,Tampere,12.38 M€,"64,881,596 €
-                (2023)",2679881-5
-Front AI,344,,2019,Helsinki,2.38 M€,"2,354,455 €
-                (2023)",2990106-4
-Cover Story,282,Building & Construction,2020,Helsinki,Crunchbase,"480,952 €
-                (2022)",3132585-2
-Phaver,917,Other Consumer Software & Apps,2019,Helsinki,7.51 M€,"1,904,533 €
-                (2023)",3019296-3
-Custobar,696,SaaS/Business Software,2014,Helsinki,0.35 M€,"3,304,289 €
-                (2022)",2645106-1
-Eventz Today,400,Other Consumer Software & Apps,2015,Helsinki,Crunchbase,"246,394 €
-                (2023)",2700656-8
-Taiga Concept,321,Fashion & Design Technology,2015,Kuopio,Crunchbase,"4,500,679 €
-                (2023)",2696176-6
-Tablebed,311,Hardware & Devices,2017,Turku,Crunchbase,N/A,2820085-6
-Wonsta,217,SaaS/Software Development & Ops,2021,Helsinki,Crunchbase,"8,944 €
-                (2021)",3204106-9
-thtRobotics,158,Hardware & Devices,2019,Vantaa,2.09 M€,"0 €
-                (2024)",2989304-1
-Shipit,577,Industrial Equipment,2015,Mariehamn,Crunchbase,"7,318,590 €
-                (2024)",2705721-8
-Bellylabs,280,Health & Medical Technology,2017,Helsinki,Crunchbase,"430,975 €
-                (2023)",2818331-2
+Wonsta,217,SaaS/Software Development & Ops,2021,Helsinki,Crunchbase,"8,944 € (2021)",3204106-9
+thtRobotics,158,Hardware & Devices,2019,Vantaa,2.09 M€,0 € (2024),2989304-1
+Shipit,577,Industrial Equipment,2015,Mariehamn,Crunchbase,"7,318,590 € (2024)",2705721-8
+Bellylabs,280,Health & Medical Technology,2017,Helsinki,Crunchbase,"430,975 € (2023)",2818331-2

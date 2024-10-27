@@ -180,3 +180,93 @@
 2024-10-27 14:54:23 - ERROR - [91mFile error: unhashable type: 'slice'
 2024-10-27 14:54:23 - ERROR - [91mFile error: unhashable type: 'slice'
 2024-10-27 14:54:23 - ERROR - [91mFile error: unhashable type: 'slice'
+2024-10-27 15:08:37 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:08:37 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:08:37 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:08:40 - INFO - Data retrieved successfully.
+2024-10-27 15:08:40 - INFO - Data retrieved successfully.
+2024-10-27 15:08:40 - INFO - Data retrieved successfully.
+2024-10-27 15:10:52 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:10:52 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:10:52 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:10:53 - INFO - Data retrieved successfully.
+2024-10-27 15:10:53 - INFO - Data retrieved successfully.
+2024-10-27 15:10:53 - INFO - Data retrieved successfully.
+2024-10-27 15:16:53 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:16:53 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:16:53 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:16:54 - INFO - Data retrieved successfully.
+2024-10-27 15:16:54 - INFO - Data retrieved successfully.
+2024-10-27 15:16:54 - INFO - Data retrieved successfully.
+2024-10-27 15:18:31 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:18:31 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:18:31 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:18:32 - INFO - Data retrieved successfully.
+2024-10-27 15:18:32 - INFO - Data retrieved successfully.
+2024-10-27 15:18:32 - INFO - Data retrieved successfully.
+2024-10-27 15:19:41 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:19:41 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:19:41 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:19:42 - INFO - Data retrieved successfully.
+2024-10-27 15:19:42 - INFO - Data retrieved successfully.
+2024-10-27 15:19:42 - INFO - Data retrieved successfully.
+2024-10-27 15:20:36 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:20:36 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:20:36 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:20:36 - INFO - Data retrieved successfully.
+2024-10-27 15:20:36 - INFO - Data retrieved successfully.
+2024-10-27 15:20:36 - INFO - Data retrieved successfully.
+2024-10-27 15:23:52 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:23:52 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:23:52 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:23:53 - INFO - Data retrieved successfully.
+2024-10-27 15:23:53 - INFO - Data retrieved successfully.
+2024-10-27 15:23:53 - INFO - Data retrieved successfully.
+2024-10-27 15:24:20 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:24:20 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:24:20 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:24:21 - INFO - Data retrieved successfully.
+2024-10-27 15:24:21 - INFO - Data retrieved successfully.
+2024-10-27 15:24:21 - INFO - Data retrieved successfully.
+2024-10-27 15:34:43 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:34:43 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:34:43 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:34:44 - INFO - Data retrieved successfully.
+2024-10-27 15:34:44 - INFO - Data retrieved successfully.
+2024-10-27 15:34:44 - INFO - Data retrieved successfully.
+2024-10-27 15:34:44 - ERROR - [91mFile error: expected str, bytes or os.PathLike object, not FileStorage
+2024-10-27 15:34:44 - ERROR - [91mFile error: expected str, bytes or os.PathLike object, not FileStorage
+2024-10-27 15:34:44 - ERROR - [91mFile error: expected str, bytes or os.PathLike object, not FileStorage
+2024-10-27 15:42:54 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:42:54 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:42:54 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:42:55 - INFO - Data retrieved successfully.
+2024-10-27 15:42:55 - INFO - Data retrieved successfully.
+2024-10-27 15:42:55 - INFO - Data retrieved successfully.
+2024-10-27 15:42:55 - ERROR - [91mFile error: expected str, bytes or os.PathLike object, not FileStorage
+2024-10-27 15:42:55 - ERROR - [91mFile error: expected str, bytes or os.PathLike object, not FileStorage
+2024-10-27 15:42:55 - ERROR - [91mFile error: expected str, bytes or os.PathLike object, not FileStorage
+2024-10-27 15:54:52 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:54:52 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:54:52 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 15:54:52 - INFO - Data retrieved successfully.
+2024-10-27 15:54:52 - INFO - Data retrieved successfully.
+2024-10-27 15:54:52 - INFO - Data retrieved successfully.
+2024-10-27 16:01:20 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 16:01:20 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 16:01:20 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 16:01:23 - INFO - Data retrieved successfully.
+2024-10-27 16:01:23 - INFO - Data retrieved successfully.
+2024-10-27 16:01:23 - INFO - Data retrieved successfully.
+2024-10-27 16:04:22 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 16:04:22 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 16:04:22 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 16:04:24 - INFO - Data retrieved successfully.
+2024-10-27 16:04:24 - INFO - Data retrieved successfully.
+2024-10-27 16:04:24 - INFO - Data retrieved successfully.
+2024-10-27 16:06:42 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 16:06:42 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 16:06:42 - INFO - Fetching data from: https://startup100.net/
+2024-10-27 16:06:43 - INFO - Data retrieved successfully.
+2024-10-27 16:06:43 - INFO - Data retrieved successfully.
+2024-10-27 16:06:43 - INFO - Data retrieved successfully.

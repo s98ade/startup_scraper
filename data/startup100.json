@@ -1,1002 +1,1004 @@
-{
-    "Pibox": {
-        "Company": "Pibox",
-        "S100 Index": "667",
-        "Category": "Music & Digital Entertainment",
-        "Founding Year": "2018",
-        "Location": "Helsinki",
-        "Funding": "0.56 M€",
-        "Revenue": "152,228 €\n                (2023)",
-        "Business ID": "2921507-2"
-    },
-    "Dobbelgänger": {
-        "Company": "Dobbelgänger",
-        "S100 Index": "277",
-        "Category": "Military & Dual-Use",
-        "Founding Year": "2022",
-        "Location": "Oulu",
-        "Funding": "Crunchbase",
-        "Revenue": "72,882 €\n                (2023)",
-        "Business ID": "3317524-5"
-    },
-    "Darkglass Electronics": {
-        "Company": "Darkglass Electronics",
-        "S100 Index": "1039",
-        "Category": "Hardware & Devices",
-        "Founding Year": "2022",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "5,003,807 €\n                (2024)",
-        "Business ID": "3260036-9"
-    },
-    "AIContentfy": {
-        "Company": "AIContentfy",
-        "S100 Index": "1543",
-        "Category": "SaaS/AdTech, MarTech, E-commerce",
-        "Founding Year": "2023",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "N/A",
-        "Business ID": "3351759-1"
-    },
-    "Anyhau": {
-        "Company": "Anyhau",
-        "S100 Index": "213",
-        "Category": "",
-        "Founding Year": "2021",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "795 €\n                (2023)",
-        "Business ID": "3247778-6"
-    },
-    "Party Bugs": {
-        "Company": "Party Bugs",
-        "S100 Index": "468",
-        "Category": "Food & Beverage Technology",
-        "Founding Year": "2018",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "24,467 €\n                (2024)",
-        "Business ID": "2904432-2"
-    },
-    "Kendis": {
-        "Company": "Kendis",
-        "S100 Index": "531",
-        "Category": "SaaS/Software Development & Ops",
-        "Founding Year": "2018",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "862,921 €\n                (2023)",
-        "Business ID": "2874062-5"
-    },
-    "Iiwari": {
-        "Company": "Iiwari",
-        "S100 Index": "296",
-        "Category": "Building & Construction",
-        "Founding Year": "2018",
-        "Location": "Vuokatti",
-        "Funding": "1.47 M€",
-        "Revenue": "175,019 €\n                (2023)",
-        "Business ID": "2899575-9"
-    },
-    "Nordtreat": {
-        "Company": "Nordtreat",
-        "S100 Index": "308",
-        "Category": "Material Technology",
-        "Founding Year": "2018",
-        "Location": "Vantaa",
-        "Funding": "10.46 M€",
-        "Revenue": "1,309,006 €\n                (2022)",
-        "Business ID": "2927144-5"
-    },
-    "ReceiptHero": {
-        "Company": "ReceiptHero",
-        "S100 Index": "523",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2018",
-        "Location": "Tampere",
-        "Funding": "5.75 M€",
-        "Revenue": "241,176 €\n                (2023)",
-        "Business ID": "2943241-3"
-    },
-    "Made of Sundays": {
-        "Company": "Made of Sundays",
-        "S100 Index": "555",
-        "Category": "Other Consumer Technology",
-        "Founding Year": "2015",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "363,245 €\n                (2023)",
-        "Business ID": "2711521-1"
-    },
-    "https://www.vertaaensin.fi/": {
-        "Company": "https://www.vertaaensin.fi/",
-        "S100 Index": "781",
-        "Category": "Finance Technology",
-        "Founding Year": "2015",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "3,067,828 €\n                (2023)",
-        "Business ID": "2703614-2"
-    },
-    "Chipmetrics": {
-        "Company": "Chipmetrics",
-        "S100 Index": "559",
-        "Category": "Industrial Equipment",
-        "Founding Year": "2019",
-        "Location": "Joensuu",
-        "Funding": "2.27 M€",
-        "Revenue": "615,765 €\n                (2023)",
-        "Business ID": "3101031-6"
-    },
-    "OpenCO2.net": {
-        "Company": "OpenCO2.net",
-        "S100 Index": "454",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2016",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "411,899 €\n                (2023)",
-        "Business ID": "2796796-7"
-    },
-    "PipeCloud": {
-        "Company": "PipeCloud",
-        "S100 Index": "194",
-        "Category": "Industrial Equipment",
-        "Founding Year": "2017",
-        "Location": "Raisio",
-        "Funding": "Crunchbase",
-        "Revenue": "229,315 €\n                (2023)",
-        "Business ID": "2856930-3"
-    },
-    "ForteAI": {
-        "Company": "ForteAI",
-        "S100 Index": "193",
-        "Category": "Other Consumer Software & Apps",
-        "Founding Year": "2022",
-        "Location": "Joensuu",
-        "Funding": "0.4 M€",
-        "Revenue": "N/A",
-        "Business ID": "3316458-9"
-    },
-    "Hookle": {
-        "Company": "Hookle",
-        "S100 Index": "681",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2017",
-        "Location": "Helsinki",
-        "Funding": "0.8 M€",
-        "Revenue": "39,441 €\n                (2023)",
-        "Business ID": "2853534-9"
-    },
-    "Neuro Event Labs": {
-        "Company": "Neuro Event Labs",
-        "S100 Index": "317",
-        "Category": "Health & Medical Technology",
-        "Founding Year": "2015",
-        "Location": "Tampere",
-        "Funding": "6.42 M€",
-        "Revenue": "829,941 €\n                (2023)",
-        "Business ID": "2712284-1"
-    },
-    "Uoma": {
-        "Company": "Uoma",
-        "S100 Index": "203",
-        "Category": "",
-        "Founding Year": "2016",
-        "Location": "Tampere",
-        "Funding": "Crunchbase",
-        "Revenue": "1,086,442 €\n                (2023)",
-        "Business ID": "2771536-4"
-    },
-    "Onego Bio": {
-        "Company": "Onego Bio",
-        "S100 Index": "581",
-        "Category": "Food & Beverage Technology",
-        "Founding Year": "2022",
-        "Location": "Helsinki",
-        "Funding": "61.81 M€",
-        "Revenue": "N/A",
-        "Business ID": "3260781-9"
-    },
-    "Memocate": {
-        "Company": "Memocate",
-        "S100 Index": "246",
-        "Category": "Health & Medical Technology",
-        "Founding Year": "2017",
-        "Location": "Tampere",
-        "Funding": "0.1 M€",
-        "Revenue": "2,267 €\n                (2023)",
-        "Business ID": "2832002-2"
-    },
-    "Zenny": {
-        "Company": "Zenny",
-        "S100 Index": "179",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2022",
-        "Location": "Vaasa",
-        "Funding": "Crunchbase",
-        "Revenue": "327,102 €\n                (2023)",
-        "Business ID": "3309464-8"
-    },
-    "eMabler": {
-        "Company": "eMabler",
-        "S100 Index": "273",
-        "Category": "Mobility & Vehicles",
-        "Founding Year": "2019",
-        "Location": "Helsinki",
-        "Funding": "2.78 M€",
-        "Revenue": "349,215 €\n                (2023)",
-        "Business ID": "3021922-2"
-    },
-    "Meluta": {
-        "Company": "Meluta",
-        "S100 Index": "245",
-        "Category": "Industrial Equipment",
-        "Founding Year": "2015",
-        "Location": "Tampere",
-        "Funding": "Crunchbase",
-        "Revenue": "34,647 €\n                (2023)",
-        "Business ID": "2683932-2"
-    },
-    "Volare": {
-        "Company": "Volare",
-        "S100 Index": "391",
-        "Category": "Food & Beverage Technology",
-        "Founding Year": "2021",
-        "Location": "Hyvinkää",
-        "Funding": "0.73 M€",
-        "Revenue": "16,815 €\n                (2023)",
-        "Business ID": "3200110-4"
-    },
-    "HTM Solutions": {
-        "Company": "HTM Solutions",
-        "S100 Index": "274",
-        "Category": "Other own IPR",
-        "Founding Year": "2021",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "701 €\n                (2023)",
-        "Business ID": "3205278-8"
-    },
-    "Inven": {
-        "Company": "Inven",
-        "S100 Index": "839",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2022",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "119,164 €\n                (2023)",
-        "Business ID": "3260222-5"
-    },
-    "Finnos": {
-        "Company": "Finnos",
-        "S100 Index": "342",
-        "Category": "Industrial Equipment",
-        "Founding Year": "2016",
-        "Location": "Lappeenranta",
-        "Funding": "Crunchbase",
-        "Revenue": "14,541,398 €\n                (2023)",
-        "Business ID": "2756133-4"
-    },
-    "CooliBlade": {
-        "Company": "CooliBlade",
-        "S100 Index": "294",
-        "Category": "Industrial Equipment",
-        "Founding Year": "2021",
-        "Location": "Oulu",
-        "Funding": "0.74 M€",
-        "Revenue": "203,628 €\n                (2023)",
-        "Business ID": "3201724-5"
-    },
-    "Fleetrange": {
-        "Company": "Fleetrange",
-        "S100 Index": "231",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2016",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "236,386 €\n                (2023)",
-        "Business ID": "2790804-3"
-    },
-    "Synergi": {
-        "Company": "Synergi",
-        "S100 Index": "248",
-        "Category": "Energy Technology",
-        "Founding Year": "2022",
-        "Location": "Helsinki",
-        "Funding": "2.63 M€",
-        "Revenue": "1,197 €\n                (2023)",
-        "Business ID": "3306817-5"
-    },
-    "Carbofex": {
-        "Company": "Carbofex",
-        "S100 Index": "497",
-        "Category": "Climate Technology",
-        "Founding Year": "2016",
-        "Location": "Nokia",
-        "Funding": "Crunchbase",
-        "Revenue": "1,491,096 €\n                (2023)",
-        "Business ID": "2776845-8"
-    },
-    "Xiphera": {
-        "Company": "Xiphera",
-        "S100 Index": "443",
-        "Category": "SaaS/Software Development & Ops",
-        "Founding Year": "2017",
-        "Location": "Espoo",
-        "Funding": "0.44 M€",
-        "Revenue": "295,950 €\n                (2023)",
-        "Business ID": "2843339-3"
-    },
-    "Book Salon": {
-        "Company": "Book Salon",
-        "S100 Index": "1302",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2016",
-        "Location": "Helsinki",
-        "Funding": "3.87 M€",
-        "Revenue": "1,130,644 €\n                (2023)",
-        "Business ID": "2786121-4"
-    },
-    "Kuva Space": {
-        "Company": "Kuva Space",
-        "S100 Index": "706",
-        "Category": "Space Technology",
-        "Founding Year": "2016",
-        "Location": "Espoo",
-        "Funding": "22.21 M€",
-        "Revenue": "1,176,055 €\n                (2023)",
-        "Business ID": "2759225-3"
-    },
-    "Woamy": {
-        "Company": "Woamy",
-        "S100 Index": "273",
-        "Category": "Material Technology",
-        "Founding Year": "2022",
-        "Location": "Espoo",
-        "Funding": "0.94 M€",
-        "Revenue": "35,390 €\n                (2023)",
-        "Business ID": "3289841-7"
-    },
-    "ReMinded": {
-        "Company": "ReMinded",
-        "S100 Index": "159",
-        "Category": "Health & Medical Technology",
-        "Founding Year": "2023",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "N/A",
-        "Business ID": "3383370-3"
-    },
-    "NorthBase": {
-        "Company": "NorthBase",
-        "S100 Index": "215",
-        "Category": "",
-        "Founding Year": "2019",
-        "Location": "Tampere",
-        "Funding": "Crunchbase",
-        "Revenue": "0 €\n                (2020)",
-        "Business ID": "3102639-3"
-    },
-    "Kelosound": {
-        "Company": "Kelosound",
-        "S100 Index": "237",
-        "Category": "Other Consumer Technology",
-        "Founding Year": "2017",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "12,455 €\n                (2023)",
-        "Business ID": "2804513-9"
-    },
-    "Carbonaide": {
-        "Company": "Carbonaide",
-        "S100 Index": "382",
-        "Category": "Climate Technology",
-        "Founding Year": "2022",
-        "Location": "Joensuu",
-        "Funding": "1.7 M€",
-        "Revenue": "34,859 €\n                (2023)",
-        "Business ID": "3326768-4"
-    },
-    "Fiellberg": {
-        "Company": "Fiellberg",
-        "S100 Index": "175",
-        "Category": "Industrial Equipment",
-        "Founding Year": "2015",
-        "Location": "Vantaa",
-        "Funding": "Crunchbase",
-        "Revenue": "4,167,796 €\n                (2023)",
-        "Business ID": "2729813-4"
-    },
-    "Sensofusion": {
-        "Company": "Sensofusion",
-        "S100 Index": "278",
-        "Category": "",
-        "Founding Year": "2016",
-        "Location": "Vantaa",
-        "Funding": "Crunchbase",
-        "Revenue": "7,235,609 €\n                (2023)",
-        "Business ID": "2757722-1"
-    },
-    "Zyfra": {
-        "Company": "Zyfra",
-        "S100 Index": "798",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2018",
-        "Location": "Helsinki",
-        "Funding": "11.61 M€",
-        "Revenue": "555,969 €\n                (2020)",
-        "Business ID": "2880023-7"
-    },
-    "LastBot": {
-        "Company": "LastBot",
-        "S100 Index": "223",
-        "Category": "SaaS/AdTech, MarTech, E-commerce",
-        "Founding Year": "2023",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "N/A",
-        "Business ID": "3361305-7"
-    },
-    "Sellbery": {
-        "Company": "Sellbery",
-        "S100 Index": "788",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2017",
-        "Location": "Helsinki",
-        "Funding": "1.39 M€",
-        "Revenue": "606,860 €\n                (2021)",
-        "Business ID": "2841075-7"
-    },
-    "Amistech Games": {
-        "Company": "Amistech Games",
-        "S100 Index": "613",
-        "Category": "Gaming",
-        "Founding Year": "2016",
-        "Location": "Turku",
-        "Funding": "Crunchbase",
-        "Revenue": "N/A",
-        "Business ID": "2785452-4"
-    },
-    "Helppy": {
-        "Company": "Helppy",
-        "S100 Index": "430",
-        "Category": "Health & Medical Technology",
-        "Founding Year": "2018",
-        "Location": "Helsinki",
-        "Funding": "3.18 M€",
-        "Revenue": "2,107,167 €\n                (2023)",
-        "Business ID": "2910554-3"
-    },
-    "6D Tape": {
-        "Company": "6D Tape",
-        "S100 Index": "237",
-        "Category": "Wellness, Fitness & Sports",
-        "Founding Year": "2016",
-        "Location": "Sipoo",
-        "Funding": "Crunchbase",
-        "Revenue": "80,324 €\n                (2023)",
-        "Business ID": "2762626-5"
-    },
-    "Dentafit": {
-        "Company": "Dentafit",
-        "S100 Index": "196",
-        "Category": "Wellness, Fitness & Sports",
-        "Founding Year": "2017",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "0 €\n                (2023)",
-        "Business ID": "2822320-6"
-    },
-    "Apiable": {
-        "Company": "Apiable",
-        "S100 Index": "438",
-        "Category": "SaaS/Software Development & Ops",
-        "Founding Year": "2020",
-        "Location": "Helsinki",
-        "Funding": "0.43 M€",
-        "Revenue": "9,417 €\n                (2023)",
-        "Business ID": "3129965-8"
-    },
-    "Healthzilla": {
-        "Company": "Healthzilla",
-        "S100 Index": "197",
-        "Category": "Other Consumer Software & Apps",
-        "Founding Year": "2019",
-        "Location": "Rauma",
-        "Funding": "Crunchbase",
-        "Revenue": "0 €\n                (2021)",
-        "Business ID": "3021664-6"
-    },
-    "Kindfull": {
-        "Company": "Kindfull",
-        "S100 Index": "189",
-        "Category": "Health & Medical Technology",
-        "Founding Year": "2017",
-        "Location": "Tampere",
-        "Funding": "0.2 M€",
-        "Revenue": "42,537 €\n                (2020)",
-        "Business ID": "2808780-6"
-    },
-    "Palonot": {
-        "Company": "Palonot",
-        "S100 Index": "155",
-        "Category": "Building & Construction",
-        "Founding Year": "2016",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "366,683 €\n                (2021)",
-        "Business ID": "2752760-3"
-    },
-    "KOULU Education Group": {
-        "Company": "KOULU Education Group",
-        "S100 Index": "147",
-        "Category": "Education Technology",
-        "Founding Year": "2014",
-        "Location": "Littoinen",
-        "Funding": "Crunchbase",
-        "Revenue": "6,090 €\n                (2021)",
-        "Business ID": "2655429-8"
-    },
-    "Swappie": {
-        "Company": "Swappie",
-        "S100 Index": "1384",
-        "Category": "Marketplaces",
-        "Founding Year": "2015",
-        "Location": "Helsinki",
-        "Funding": "163.35 M€",
-        "Revenue": "207,321,651 €\n                (2023)",
-        "Business ID": "2692328-4"
-    },
-    "Vapaus": {
-        "Company": "Vapaus",
-        "S100 Index": "618",
-        "Category": "Mobility & Vehicles",
-        "Founding Year": "2018",
-        "Location": "Helsinki",
-        "Funding": "17.19 M€",
-        "Revenue": "24,876,066 €\n                (2023)",
-        "Business ID": "2879502-8"
-    },
-    "Maketrade": {
-        "Company": "Maketrade",
-        "S100 Index": "183",
-        "Category": "Other Consumer Software & Apps",
-        "Founding Year": "2022",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "64 €\n                (2023)",
-        "Business ID": "3321202-6"
-    },
-    "SoilWatch": {
-        "Company": "SoilWatch",
-        "S100 Index": "271",
-        "Category": "Clean & Green Technology",
-        "Founding Year": "2022",
-        "Location": "Köörtilä",
-        "Funding": "Crunchbase",
-        "Revenue": "71,457 €\n                (2023)",
-        "Business ID": "3258182-3"
-    },
-    "Oncarbon": {
-        "Company": "Oncarbon",
-        "S100 Index": "286",
-        "Category": "SaaS/Travel & Hospitality",
-        "Founding Year": "2021",
-        "Location": "Ikaalinen",
-        "Funding": "0.33 M€",
-        "Revenue": "N/A",
-        "Business ID": "3220851-9"
-    },
-    "Suvanto Care": {
-        "Company": "Suvanto Care",
-        "S100 Index": "316",
-        "Category": "Other Consumer Software & Apps",
-        "Founding Year": "2014",
-        "Location": "Rovaniemi",
-        "Funding": "Crunchbase",
-        "Revenue": "1,747,797 €\n                (2023)",
-        "Business ID": "2654350-5"
-    },
-    "Aetlan": {
-        "Company": "Aetlan",
-        "S100 Index": "185",
-        "Category": "Energy Technology",
-        "Founding Year": "2019",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "13,360 €\n                (2021)",
-        "Business ID": "3000935-6"
-    },
-    "Corle": {
-        "Company": "Corle",
-        "S100 Index": "153",
-        "Category": "",
-        "Founding Year": "2017",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "4,235 €\n                (2023)",
-        "Business ID": "2843002-9"
-    },
-    "Neural DSP Technologies": {
-        "Company": "Neural DSP Technologies",
-        "S100 Index": "1599",
-        "Category": "Music & Digital Entertainment",
-        "Founding Year": "2017",
-        "Location": "Helsinki",
-        "Funding": "5.72 M€",
-        "Revenue": "27,281,073 €\n                (2023)",
-        "Business ID": "2847533-1"
-    },
-    "Membrane Finance": {
-        "Company": "Membrane Finance",
-        "S100 Index": "492",
-        "Category": "Crypto & Blockchain",
-        "Founding Year": "2021",
-        "Location": "Helsinki",
-        "Funding": "1.83 M€",
-        "Revenue": "209,445 €\n                (2023)",
-        "Business ID": "3236886-2"
-    },
-    "MAJ": {
-        "Company": "MAJ",
-        "S100 Index": "293",
-        "Category": "Marketplaces",
-        "Founding Year": "2016",
-        "Location": "Tampere",
-        "Funding": "Crunchbase",
-        "Revenue": "273,404 €\n                (2023)",
-        "Business ID": "2778536-2"
-    },
-    "Moder": {
-        "Company": "Moder",
-        "S100 Index": "634",
-        "Category": "SaaS/Travel & Hospitality",
-        "Founding Year": "2020",
-        "Location": "Helsinki",
-        "Funding": "0.73 M€",
-        "Revenue": "341,779 €\n                (2023)",
-        "Business ID": "3141855-7"
-    },
-    "Maculaser": {
-        "Company": "Maculaser",
-        "S100 Index": "259",
-        "Category": "Health & Medical Technology",
-        "Founding Year": "2020",
-        "Location": "Espoo",
-        "Funding": "1.04 M€",
-        "Revenue": "N/A",
-        "Business ID": "3160009-2"
-    },
-    "Taika3D": {
-        "Company": "Taika3D",
-        "S100 Index": "230",
-        "Category": "Health & Medical Technology",
-        "Founding Year": "2018",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "506,307 €\n                (2023)",
-        "Business ID": "2934271-7"
-    },
-    "Lekatech": {
-        "Company": "Lekatech",
-        "S100 Index": "182",
-        "Category": "Industrial Equipment",
-        "Founding Year": "2018",
-        "Location": "Kausala",
-        "Funding": "6.33 M€",
-        "Revenue": "N/A",
-        "Business ID": "2911472-2"
-    },
-    "Eezery Enterprise": {
-        "Company": "Eezery Enterprise",
-        "S100 Index": "166",
-        "Category": "",
-        "Founding Year": "2017",
-        "Location": "Riihimäki",
-        "Funding": "Crunchbase",
-        "Revenue": "458,426 €\n                (2022)",
-        "Business ID": "2802719-2"
-    },
-    "Neyra": {
-        "Company": "Neyra",
-        "S100 Index": "144",
-        "Category": "",
-        "Founding Year": "2019",
-        "Location": "Helsinki",
-        "Funding": "0.1 M€",
-        "Revenue": "25,299 €\n                (2021)",
-        "Business ID": "2994208-5"
-    },
-    "Operating": {
-        "Company": "Operating",
-        "S100 Index": "267",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2021",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "33,763 €\n                (2023)",
-        "Business ID": "3189163-5"
-    },
-    "Flow Computing": {
-        "Company": "Flow Computing",
-        "S100 Index": "669",
-        "Category": "Hardware & Devices",
-        "Founding Year": "2023",
-        "Location": "Helsinki",
-        "Funding": "3.73 M€",
-        "Revenue": "N/A",
-        "Business ID": "3410639-9"
-    },
-    "Fun Academy": {
-        "Company": "Fun Academy",
-        "S100 Index": "461",
-        "Category": "Education Technology",
-        "Founding Year": "2015",
-        "Location": "Vantaa",
-        "Funding": "Crunchbase",
-        "Revenue": "144,004 €\n                (2023)",
-        "Business ID": "2702454-7"
-    },
-    "Hycamite": {
-        "Company": "Hycamite",
-        "S100 Index": "457",
-        "Category": "Climate Technology",
-        "Founding Year": "2020",
-        "Location": "Kokkola",
-        "Funding": "33.73 M€",
-        "Revenue": "315 €\n                (2023)",
-        "Business ID": "3108281-1"
-    },
-    "Hei.io": {
-        "Company": "Hei.io",
-        "S100 Index": "492",
-        "Category": "",
-        "Founding Year": "2022",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "139,693 €\n                (2023)",
-        "Business ID": "3280382-8"
-    },
-    "Sulapac": {
-        "Company": "Sulapac",
-        "S100 Index": "931",
-        "Category": "Material Technology",
-        "Founding Year": "2016",
-        "Location": "Helsinki",
-        "Funding": "18.19 M€",
-        "Revenue": "2,124,668 €\n                (2023)",
-        "Business ID": "2739393-2"
-    },
-    "Cumucore": {
-        "Company": "Cumucore",
-        "S100 Index": "385",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2015",
-        "Location": "Espoo",
-        "Funding": "Crunchbase",
-        "Revenue": "57,002 €\n                (2023)",
-        "Business ID": "2661729-5"
-    },
-    "Sam Corporation": {
-        "Company": "Sam Corporation",
-        "S100 Index": "195",
-        "Category": "Education Technology",
-        "Founding Year": "2022",
-        "Location": "",
-        "Funding": "Crunchbase",
-        "Revenue": "30,340 €\n                (2023)",
-        "Business ID": "3251840-2"
-    },
-    "Cerenion": {
-        "Company": "Cerenion",
-        "S100 Index": "301",
-        "Category": "",
-        "Founding Year": "2017",
-        "Location": "Oulu",
-        "Funding": "5.57 M€",
-        "Revenue": "43,787 €\n                (2023)",
-        "Business ID": "2832753-1"
-    },
-    "Physilect": {
-        "Company": "Physilect",
-        "S100 Index": "147",
-        "Category": "Health & Medical Technology",
-        "Founding Year": "2015",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "94,077 €\n                (2022)",
-        "Business ID": "2730708-8"
-    },
-    "IVALO": {
-        "Company": "IVALO",
-        "S100 Index": "602",
-        "Category": "Other Consumer Software & Apps",
-        "Founding Year": "2015",
-        "Location": "Helsinki",
-        "Funding": "0.14 M€",
-        "Revenue": "708,807 €\n                (2023)",
-        "Business ID": "2693545-3"
-    },
-    "HappySignals": {
-        "Company": "HappySignals",
-        "S100 Index": "601",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2014",
-        "Location": "Helsinki",
-        "Funding": "16.94 M€",
-        "Revenue": "4,415,919 €\n                (2023)",
-        "Business ID": "2643260-2"
-    },
-    "Tiitus": {
-        "Company": "Tiitus",
-        "S100 Index": "458",
-        "Category": "",
-        "Founding Year": "2016",
-        "Location": "Turku",
-        "Funding": "Crunchbase",
-        "Revenue": "335,573 €\n                (2023)",
-        "Business ID": "2736664-3"
-    },
-    "Neuwo": {
-        "Company": "Neuwo",
-        "S100 Index": "333",
-        "Category": "SaaS/AdTech, MarTech, E-commerce",
-        "Founding Year": "2022",
-        "Location": "Jyväskylä",
-        "Funding": "Crunchbase",
-        "Revenue": "200,110 €\n                (2023)",
-        "Business ID": "3280995-5"
-    },
-    "Yonoton": {
-        "Company": "Yonoton",
-        "S100 Index": "320",
-        "Category": "Other Consumer Software & Apps",
-        "Founding Year": "2016",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "1,672,197 €\n                (2023)",
-        "Business ID": "2732822-5"
-    },
-    "Ainak": {
-        "Company": "Ainak",
-        "S100 Index": "297",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2018",
-        "Location": "Huhmari",
-        "Funding": "Crunchbase",
-        "Revenue": "67,680 €\n                (2023)",
-        "Business ID": "2925129-2"
-    },
-    "Valossa": {
-        "Company": "Valossa",
-        "S100 Index": "701",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2015",
-        "Location": "Oulu",
-        "Funding": "2.3 M€",
-        "Revenue": "653,701 €\n                (2022)",
-        "Business ID": "2718321-4"
-    },
-    "Unikie": {
-        "Company": "Unikie",
-        "S100 Index": "652",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2015",
-        "Location": "Tampere",
-        "Funding": "12.38 M€",
-        "Revenue": "64,881,596 €\n                (2023)",
-        "Business ID": "2679881-5"
-    },
-    "Front AI": {
-        "Company": "Front AI",
-        "S100 Index": "344",
-        "Category": "",
-        "Founding Year": "2019",
-        "Location": "Helsinki",
-        "Funding": "2.38 M€",
-        "Revenue": "2,354,455 €\n                (2023)",
-        "Business ID": "2990106-4"
-    },
-    "Cover Story": {
-        "Company": "Cover Story",
-        "S100 Index": "282",
-        "Category": "Building & Construction",
-        "Founding Year": "2020",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "480,952 €\n                (2022)",
-        "Business ID": "3132585-2"
-    },
-    "Phaver": {
-        "Company": "Phaver",
-        "S100 Index": "917",
-        "Category": "Other Consumer Software & Apps",
-        "Founding Year": "2019",
-        "Location": "Helsinki",
-        "Funding": "7.51 M€",
-        "Revenue": "1,904,533 €\n                (2023)",
-        "Business ID": "3019296-3"
-    },
-    "Custobar": {
-        "Company": "Custobar",
-        "S100 Index": "696",
-        "Category": "SaaS/Business Software",
-        "Founding Year": "2014",
-        "Location": "Helsinki",
-        "Funding": "0.35 M€",
-        "Revenue": "3,304,289 €\n                (2022)",
-        "Business ID": "2645106-1"
-    },
-    "Eventz Today": {
-        "Company": "Eventz Today",
-        "S100 Index": "400",
-        "Category": "Other Consumer Software & Apps",
-        "Founding Year": "2015",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "246,394 €\n                (2023)",
-        "Business ID": "2700656-8"
-    },
-    "Taiga Concept": {
-        "Company": "Taiga Concept",
-        "S100 Index": "321",
-        "Category": "Fashion & Design Technology",
-        "Founding Year": "2015",
-        "Location": "Kuopio",
-        "Funding": "Crunchbase",
-        "Revenue": "4,500,679 €\n                (2023)",
-        "Business ID": "2696176-6"
-    },
-    "Tablebed": {
-        "Company": "Tablebed",
-        "S100 Index": "311",
-        "Category": "Hardware & Devices",
-        "Founding Year": "2017",
-        "Location": "Turku",
-        "Funding": "Crunchbase",
-        "Revenue": "N/A",
-        "Business ID": "2820085-6"
-    },
-    "Wonsta": {
-        "Company": "Wonsta",
-        "S100 Index": "217",
-        "Category": "SaaS/Software Development & Ops",
-        "Founding Year": "2021",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "8,944 €\n                (2021)",
-        "Business ID": "3204106-9"
-    },
-    "thtRobotics": {
-        "Company": "thtRobotics",
-        "S100 Index": "158",
-        "Category": "Hardware & Devices",
-        "Founding Year": "2019",
-        "Location": "Vantaa",
-        "Funding": "2.09 M€",
-        "Revenue": "0 €\n                (2024)",
-        "Business ID": "2989304-1"
-    },
-    "Shipit": {
-        "Company": "Shipit",
-        "S100 Index": "577",
-        "Category": "Industrial Equipment",
-        "Founding Year": "2015",
-        "Location": "Mariehamn",
-        "Funding": "Crunchbase",
-        "Revenue": "7,318,590 €\n                (2024)",
-        "Business ID": "2705721-8"
-    },
-    "Bellylabs": {
-        "Company": "Bellylabs",
-        "S100 Index": "280",
-        "Category": "Health & Medical Technology",
-        "Founding Year": "2017",
-        "Location": "Helsinki",
-        "Funding": "Crunchbase",
-        "Revenue": "430,975 €\n                (2023)",
-        "Business ID": "2818331-2"
+[
+    {
+        "Pibox": {
+            "Company": "Pibox",
+            "S100 Index": "667",
+            "Category": "Music & Digital Entertainment",
+            "Founding Year": "2018",
+            "Location": "Helsinki",
+            "Funding": "0.56 M€",
+            "Revenue": "152,228 € (2023)",
+            "Business ID": "2921507-2"
+        },
+        "Dobbelgänger": {
+            "Company": "Dobbelgänger",
+            "S100 Index": "277",
+            "Category": "Military & Dual-Use",
+            "Founding Year": "2022",
+            "Location": "Oulu",
+            "Funding": "Crunchbase",
+            "Revenue": "72,882 € (2023)",
+            "Business ID": "3317524-5"
+        },
+        "Darkglass Electronics": {
+            "Company": "Darkglass Electronics",
+            "S100 Index": "1039",
+            "Category": "Hardware & Devices",
+            "Founding Year": "2022",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "5,003,807 € (2024)",
+            "Business ID": "3260036-9"
+        },
+        "AIContentfy": {
+            "Company": "AIContentfy",
+            "S100 Index": "1543",
+            "Category": "SaaS/AdTech, MarTech, E-commerce",
+            "Founding Year": "2023",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "N/A",
+            "Business ID": "3351759-1"
+        },
+        "Anyhau": {
+            "Company": "Anyhau",
+            "S100 Index": "213",
+            "Category": "",
+            "Founding Year": "2021",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "795 € (2023)",
+            "Business ID": "3247778-6"
+        },
+        "Party Bugs": {
+            "Company": "Party Bugs",
+            "S100 Index": "468",
+            "Category": "Food & Beverage Technology",
+            "Founding Year": "2018",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "24,467 € (2024)",
+            "Business ID": "2904432-2"
+        },
+        "Kendis": {
+            "Company": "Kendis",
+            "S100 Index": "531",
+            "Category": "SaaS/Software Development & Ops",
+            "Founding Year": "2018",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "862,921 € (2023)",
+            "Business ID": "2874062-5"
+        },
+        "Iiwari": {
+            "Company": "Iiwari",
+            "S100 Index": "296",
+            "Category": "Building & Construction",
+            "Founding Year": "2018",
+            "Location": "Vuokatti",
+            "Funding": "1.47 M€",
+            "Revenue": "175,019 € (2023)",
+            "Business ID": "2899575-9"
+        },
+        "Nordtreat": {
+            "Company": "Nordtreat",
+            "S100 Index": "308",
+            "Category": "Material Technology",
+            "Founding Year": "2018",
+            "Location": "Vantaa",
+            "Funding": "10.46 M€",
+            "Revenue": "1,309,006 € (2022)",
+            "Business ID": "2927144-5"
+        },
+        "ReceiptHero": {
+            "Company": "ReceiptHero",
+            "S100 Index": "523",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2018",
+            "Location": "Tampere",
+            "Funding": "5.75 M€",
+            "Revenue": "241,176 € (2023)",
+            "Business ID": "2943241-3"
+        },
+        "Made of Sundays": {
+            "Company": "Made of Sundays",
+            "S100 Index": "555",
+            "Category": "Other Consumer Technology",
+            "Founding Year": "2015",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "363,245 € (2023)",
+            "Business ID": "2711521-1"
+        },
+        "https://www.vertaaensin.fi/": {
+            "Company": "https://www.vertaaensin.fi/",
+            "S100 Index": "781",
+            "Category": "Finance Technology",
+            "Founding Year": "2015",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "3,067,828 € (2023)",
+            "Business ID": "2703614-2"
+        },
+        "Chipmetrics": {
+            "Company": "Chipmetrics",
+            "S100 Index": "559",
+            "Category": "Industrial Equipment",
+            "Founding Year": "2019",
+            "Location": "Joensuu",
+            "Funding": "2.27 M€",
+            "Revenue": "615,765 € (2023)",
+            "Business ID": "3101031-6"
+        },
+        "OpenCO2.net": {
+            "Company": "OpenCO2.net",
+            "S100 Index": "454",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2016",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "411,899 € (2023)",
+            "Business ID": "2796796-7"
+        },
+        "PipeCloud": {
+            "Company": "PipeCloud",
+            "S100 Index": "194",
+            "Category": "Industrial Equipment",
+            "Founding Year": "2017",
+            "Location": "Raisio",
+            "Funding": "Crunchbase",
+            "Revenue": "229,315 € (2023)",
+            "Business ID": "2856930-3"
+        },
+        "ForteAI": {
+            "Company": "ForteAI",
+            "S100 Index": "193",
+            "Category": "Other Consumer Software & Apps",
+            "Founding Year": "2022",
+            "Location": "Joensuu",
+            "Funding": "0.4 M€",
+            "Revenue": "N/A",
+            "Business ID": "3316458-9"
+        },
+        "Hookle": {
+            "Company": "Hookle",
+            "S100 Index": "681",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2017",
+            "Location": "Helsinki",
+            "Funding": "0.8 M€",
+            "Revenue": "39,441 € (2023)",
+            "Business ID": "2853534-9"
+        },
+        "Neuro Event Labs": {
+            "Company": "Neuro Event Labs",
+            "S100 Index": "317",
+            "Category": "Health & Medical Technology",
+            "Founding Year": "2015",
+            "Location": "Tampere",
+            "Funding": "6.42 M€",
+            "Revenue": "829,941 € (2023)",
+            "Business ID": "2712284-1"
+        },
+        "Uoma": {
+            "Company": "Uoma",
+            "S100 Index": "203",
+            "Category": "",
+            "Founding Year": "2016",
+            "Location": "Tampere",
+            "Funding": "Crunchbase",
+            "Revenue": "1,086,442 € (2023)",
+            "Business ID": "2771536-4"
+        },
+        "Onego Bio": {
+            "Company": "Onego Bio",
+            "S100 Index": "581",
+            "Category": "Food & Beverage Technology",
+            "Founding Year": "2022",
+            "Location": "Helsinki",
+            "Funding": "61.81 M€",
+            "Revenue": "N/A",
+            "Business ID": "3260781-9"
+        },
+        "Memocate": {
+            "Company": "Memocate",
+            "S100 Index": "246",
+            "Category": "Health & Medical Technology",
+            "Founding Year": "2017",
+            "Location": "Tampere",
+            "Funding": "0.1 M€",
+            "Revenue": "2,267 € (2023)",
+            "Business ID": "2832002-2"
+        },
+        "Zenny": {
+            "Company": "Zenny",
+            "S100 Index": "179",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2022",
+            "Location": "Vaasa",
+            "Funding": "Crunchbase",
+            "Revenue": "327,102 € (2023)",
+            "Business ID": "3309464-8"
+        },
+        "eMabler": {
+            "Company": "eMabler",
+            "S100 Index": "273",
+            "Category": "Mobility & Vehicles",
+            "Founding Year": "2019",
+            "Location": "Helsinki",
+            "Funding": "2.78 M€",
+            "Revenue": "349,215 € (2023)",
+            "Business ID": "3021922-2"
+        },
+        "Meluta": {
+            "Company": "Meluta",
+            "S100 Index": "245",
+            "Category": "Industrial Equipment",
+            "Founding Year": "2015",
+            "Location": "Tampere",
+            "Funding": "Crunchbase",
+            "Revenue": "34,647 € (2023)",
+            "Business ID": "2683932-2"
+        },
+        "Volare": {
+            "Company": "Volare",
+            "S100 Index": "391",
+            "Category": "Food & Beverage Technology",
+            "Founding Year": "2021",
+            "Location": "Hyvinkää",
+            "Funding": "0.73 M€",
+            "Revenue": "16,815 € (2023)",
+            "Business ID": "3200110-4"
+        },
+        "HTM Solutions": {
+            "Company": "HTM Solutions",
+            "S100 Index": "274",
+            "Category": "Other own IPR",
+            "Founding Year": "2021",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "701 € (2023)",
+            "Business ID": "3205278-8"
+        },
+        "Inven": {
+            "Company": "Inven",
+            "S100 Index": "839",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2022",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "119,164 € (2023)",
+            "Business ID": "3260222-5"
+        },
+        "Finnos": {
+            "Company": "Finnos",
+            "S100 Index": "342",
+            "Category": "Industrial Equipment",
+            "Founding Year": "2016",
+            "Location": "Lappeenranta",
+            "Funding": "Crunchbase",
+            "Revenue": "14,541,398 € (2023)",
+            "Business ID": "2756133-4"
+        },
+        "CooliBlade": {
+            "Company": "CooliBlade",
+            "S100 Index": "294",
+            "Category": "Industrial Equipment",
+            "Founding Year": "2021",
+            "Location": "Oulu",
+            "Funding": "0.74 M€",
+            "Revenue": "203,628 € (2023)",
+            "Business ID": "3201724-5"
+        },
+        "Fleetrange": {
+            "Company": "Fleetrange",
+            "S100 Index": "231",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2016",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "236,386 € (2023)",
+            "Business ID": "2790804-3"
+        },
+        "Synergi": {
+            "Company": "Synergi",
+            "S100 Index": "248",
+            "Category": "Energy Technology",
+            "Founding Year": "2022",
+            "Location": "Helsinki",
+            "Funding": "2.63 M€",
+            "Revenue": "1,197 € (2023)",
+            "Business ID": "3306817-5"
+        },
+        "Carbofex": {
+            "Company": "Carbofex",
+            "S100 Index": "497",
+            "Category": "Climate Technology",
+            "Founding Year": "2016",
+            "Location": "Nokia",
+            "Funding": "Crunchbase",
+            "Revenue": "1,491,096 € (2023)",
+            "Business ID": "2776845-8"
+        },
+        "Xiphera": {
+            "Company": "Xiphera",
+            "S100 Index": "443",
+            "Category": "SaaS/Software Development & Ops",
+            "Founding Year": "2017",
+            "Location": "Espoo",
+            "Funding": "0.44 M€",
+            "Revenue": "295,950 € (2023)",
+            "Business ID": "2843339-3"
+        },
+        "Book Salon": {
+            "Company": "Book Salon",
+            "S100 Index": "1302",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2016",
+            "Location": "Helsinki",
+            "Funding": "3.87 M€",
+            "Revenue": "1,130,644 € (2023)",
+            "Business ID": "2786121-4"
+        },
+        "Kuva Space": {
+            "Company": "Kuva Space",
+            "S100 Index": "706",
+            "Category": "Space Technology",
+            "Founding Year": "2016",
+            "Location": "Espoo",
+            "Funding": "22.21 M€",
+            "Revenue": "1,176,055 € (2023)",
+            "Business ID": "2759225-3"
+        },
+        "Woamy": {
+            "Company": "Woamy",
+            "S100 Index": "273",
+            "Category": "Material Technology",
+            "Founding Year": "2022",
+            "Location": "Espoo",
+            "Funding": "0.94 M€",
+            "Revenue": "35,390 € (2023)",
+            "Business ID": "3289841-7"
+        },
+        "ReMinded": {
+            "Company": "ReMinded",
+            "S100 Index": "159",
+            "Category": "Health & Medical Technology",
+            "Founding Year": "2023",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "N/A",
+            "Business ID": "3383370-3"
+        },
+        "NorthBase": {
+            "Company": "NorthBase",
+            "S100 Index": "215",
+            "Category": "",
+            "Founding Year": "2019",
+            "Location": "Tampere",
+            "Funding": "Crunchbase",
+            "Revenue": "0 € (2020)",
+            "Business ID": "3102639-3"
+        },
+        "Kelosound": {
+            "Company": "Kelosound",
+            "S100 Index": "237",
+            "Category": "Other Consumer Technology",
+            "Founding Year": "2017",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "12,455 € (2023)",
+            "Business ID": "2804513-9"
+        },
+        "Carbonaide": {
+            "Company": "Carbonaide",
+            "S100 Index": "382",
+            "Category": "Climate Technology",
+            "Founding Year": "2022",
+            "Location": "Joensuu",
+            "Funding": "1.7 M€",
+            "Revenue": "34,859 € (2023)",
+            "Business ID": "3326768-4"
+        },
+        "Fiellberg": {
+            "Company": "Fiellberg",
+            "S100 Index": "175",
+            "Category": "Industrial Equipment",
+            "Founding Year": "2015",
+            "Location": "Vantaa",
+            "Funding": "Crunchbase",
+            "Revenue": "4,167,796 € (2023)",
+            "Business ID": "2729813-4"
+        },
+        "Sensofusion": {
+            "Company": "Sensofusion",
+            "S100 Index": "278",
+            "Category": "",
+            "Founding Year": "2016",
+            "Location": "Vantaa",
+            "Funding": "Crunchbase",
+            "Revenue": "7,235,609 € (2023)",
+            "Business ID": "2757722-1"
+        },
+        "Zyfra": {
+            "Company": "Zyfra",
+            "S100 Index": "798",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2018",
+            "Location": "Helsinki",
+            "Funding": "11.61 M€",
+            "Revenue": "555,969 € (2020)",
+            "Business ID": "2880023-7"
+        },
+        "LastBot": {
+            "Company": "LastBot",
+            "S100 Index": "223",
+            "Category": "SaaS/AdTech, MarTech, E-commerce",
+            "Founding Year": "2023",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "N/A",
+            "Business ID": "3361305-7"
+        },
+        "Sellbery": {
+            "Company": "Sellbery",
+            "S100 Index": "788",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2017",
+            "Location": "Helsinki",
+            "Funding": "1.39 M€",
+            "Revenue": "606,860 € (2021)",
+            "Business ID": "2841075-7"
+        },
+        "Amistech Games": {
+            "Company": "Amistech Games",
+            "S100 Index": "613",
+            "Category": "Gaming",
+            "Founding Year": "2016",
+            "Location": "Turku",
+            "Funding": "Crunchbase",
+            "Revenue": "N/A",
+            "Business ID": "2785452-4"
+        },
+        "Helppy": {
+            "Company": "Helppy",
+            "S100 Index": "430",
+            "Category": "Health & Medical Technology",
+            "Founding Year": "2018",
+            "Location": "Helsinki",
+            "Funding": "3.18 M€",
+            "Revenue": "2,107,167 € (2023)",
+            "Business ID": "2910554-3"
+        },
+        "6D Tape": {
+            "Company": "6D Tape",
+            "S100 Index": "237",
+            "Category": "Wellness, Fitness & Sports",
+            "Founding Year": "2016",
+            "Location": "Sipoo",
+            "Funding": "Crunchbase",
+            "Revenue": "80,324 € (2023)",
+            "Business ID": "2762626-5"
+        },
+        "Dentafit": {
+            "Company": "Dentafit",
+            "S100 Index": "196",
+            "Category": "Wellness, Fitness & Sports",
+            "Founding Year": "2017",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "0 € (2023)",
+            "Business ID": "2822320-6"
+        },
+        "Apiable": {
+            "Company": "Apiable",
+            "S100 Index": "438",
+            "Category": "SaaS/Software Development & Ops",
+            "Founding Year": "2020",
+            "Location": "Helsinki",
+            "Funding": "0.43 M€",
+            "Revenue": "9,417 € (2023)",
+            "Business ID": "3129965-8"
+        },
+        "Healthzilla": {
+            "Company": "Healthzilla",
+            "S100 Index": "197",
+            "Category": "Other Consumer Software & Apps",
+            "Founding Year": "2019",
+            "Location": "Rauma",
+            "Funding": "Crunchbase",
+            "Revenue": "0 € (2021)",
+            "Business ID": "3021664-6"
+        },
+        "Kindfull": {
+            "Company": "Kindfull",
+            "S100 Index": "189",
+            "Category": "Health & Medical Technology",
+            "Founding Year": "2017",
+            "Location": "Tampere",
+            "Funding": "0.2 M€",
+            "Revenue": "42,537 € (2020)",
+            "Business ID": "2808780-6"
+        },
+        "Palonot": {
+            "Company": "Palonot",
+            "S100 Index": "155",
+            "Category": "Building & Construction",
+            "Founding Year": "2016",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "366,683 € (2021)",
+            "Business ID": "2752760-3"
+        },
+        "KOULU Education Group": {
+            "Company": "KOULU Education Group",
+            "S100 Index": "147",
+            "Category": "Education Technology",
+            "Founding Year": "2014",
+            "Location": "Littoinen",
+            "Funding": "Crunchbase",
+            "Revenue": "6,090 € (2021)",
+            "Business ID": "2655429-8"
+        },
+        "Swappie": {
+            "Company": "Swappie",
+            "S100 Index": "1384",
+            "Category": "Marketplaces",
+            "Founding Year": "2015",
+            "Location": "Helsinki",
+            "Funding": "163.35 M€",
+            "Revenue": "207,321,651 € (2023)",
+            "Business ID": "2692328-4"
+        },
+        "Vapaus": {
+            "Company": "Vapaus",
+            "S100 Index": "618",
+            "Category": "Mobility & Vehicles",
+            "Founding Year": "2018",
+            "Location": "Helsinki",
+            "Funding": "17.19 M€",
+            "Revenue": "24,876,066 € (2023)",
+            "Business ID": "2879502-8"
+        },
+        "Maketrade": {
+            "Company": "Maketrade",
+            "S100 Index": "183",
+            "Category": "Other Consumer Software & Apps",
+            "Founding Year": "2022",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "64 € (2023)",
+            "Business ID": "3321202-6"
+        },
+        "SoilWatch": {
+            "Company": "SoilWatch",
+            "S100 Index": "271",
+            "Category": "Clean & Green Technology",
+            "Founding Year": "2022",
+            "Location": "Köörtilä",
+            "Funding": "Crunchbase",
+            "Revenue": "71,457 € (2023)",
+            "Business ID": "3258182-3"
+        },
+        "Oncarbon": {
+            "Company": "Oncarbon",
+            "S100 Index": "286",
+            "Category": "SaaS/Travel & Hospitality",
+            "Founding Year": "2021",
+            "Location": "Ikaalinen",
+            "Funding": "0.33 M€",
+            "Revenue": "N/A",
+            "Business ID": "3220851-9"
+        },
+        "Suvanto Care": {
+            "Company": "Suvanto Care",
+            "S100 Index": "316",
+            "Category": "Other Consumer Software & Apps",
+            "Founding Year": "2014",
+            "Location": "Rovaniemi",
+            "Funding": "Crunchbase",
+            "Revenue": "1,747,797 € (2023)",
+            "Business ID": "2654350-5"
+        },
+        "Aetlan": {
+            "Company": "Aetlan",
+            "S100 Index": "185",
+            "Category": "Energy Technology",
+            "Founding Year": "2019",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "13,360 € (2021)",
+            "Business ID": "3000935-6"
+        },
+        "Corle": {
+            "Company": "Corle",
+            "S100 Index": "153",
+            "Category": "",
+            "Founding Year": "2017",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "4,235 € (2023)",
+            "Business ID": "2843002-9"
+        },
+        "Neural DSP Technologies": {
+            "Company": "Neural DSP Technologies",
+            "S100 Index": "1599",
+            "Category": "Music & Digital Entertainment",
+            "Founding Year": "2017",
+            "Location": "Helsinki",
+            "Funding": "5.72 M€",
+            "Revenue": "27,281,073 € (2023)",
+            "Business ID": "2847533-1"
+        },
+        "Membrane Finance": {
+            "Company": "Membrane Finance",
+            "S100 Index": "492",
+            "Category": "Crypto & Blockchain",
+            "Founding Year": "2021",
+            "Location": "Helsinki",
+            "Funding": "1.83 M€",
+            "Revenue": "209,445 € (2023)",
+            "Business ID": "3236886-2"
+        },
+        "MAJ": {
+            "Company": "MAJ",
+            "S100 Index": "293",
+            "Category": "Marketplaces",
+            "Founding Year": "2016",
+            "Location": "Tampere",
+            "Funding": "Crunchbase",
+            "Revenue": "273,404 € (2023)",
+            "Business ID": "2778536-2"
+        },
+        "Moder": {
+            "Company": "Moder",
+            "S100 Index": "634",
+            "Category": "SaaS/Travel & Hospitality",
+            "Founding Year": "2020",
+            "Location": "Helsinki",
+            "Funding": "0.73 M€",
+            "Revenue": "341,779 € (2023)",
+            "Business ID": "3141855-7"
+        },
+        "Maculaser": {
+            "Company": "Maculaser",
+            "S100 Index": "259",
+            "Category": "Health & Medical Technology",
+            "Founding Year": "2020",
+            "Location": "Espoo",
+            "Funding": "1.04 M€",
+            "Revenue": "N/A",
+            "Business ID": "3160009-2"
+        },
+        "Taika3D": {
+            "Company": "Taika3D",
+            "S100 Index": "230",
+            "Category": "Health & Medical Technology",
+            "Founding Year": "2018",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "506,307 € (2023)",
+            "Business ID": "2934271-7"
+        },
+        "Lekatech": {
+            "Company": "Lekatech",
+            "S100 Index": "182",
+            "Category": "Industrial Equipment",
+            "Founding Year": "2018",
+            "Location": "Kausala",
+            "Funding": "6.33 M€",
+            "Revenue": "N/A",
+            "Business ID": "2911472-2"
+        },
+        "Eezery Enterprise": {
+            "Company": "Eezery Enterprise",
+            "S100 Index": "166",
+            "Category": "",
+            "Founding Year": "2017",
+            "Location": "Riihimäki",
+            "Funding": "Crunchbase",
+            "Revenue": "458,426 € (2022)",
+            "Business ID": "2802719-2"
+        },
+        "Neyra": {
+            "Company": "Neyra",
+            "S100 Index": "144",
+            "Category": "",
+            "Founding Year": "2019",
+            "Location": "Helsinki",
+            "Funding": "0.1 M€",
+            "Revenue": "25,299 € (2021)",
+            "Business ID": "2994208-5"
+        },
+        "Operating": {
+            "Company": "Operating",
+            "S100 Index": "267",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2021",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "33,763 € (2023)",
+            "Business ID": "3189163-5"
+        },
+        "Flow Computing": {
+            "Company": "Flow Computing",
+            "S100 Index": "669",
+            "Category": "Hardware & Devices",
+            "Founding Year": "2023",
+            "Location": "Helsinki",
+            "Funding": "3.73 M€",
+            "Revenue": "N/A",
+            "Business ID": "3410639-9"
+        },
+        "Fun Academy": {
+            "Company": "Fun Academy",
+            "S100 Index": "461",
+            "Category": "Education Technology",
+            "Founding Year": "2015",
+            "Location": "Vantaa",
+            "Funding": "Crunchbase",
+            "Revenue": "144,004 € (2023)",
+            "Business ID": "2702454-7"
+        },
+        "Hycamite": {
+            "Company": "Hycamite",
+            "S100 Index": "457",
+            "Category": "Climate Technology",
+            "Founding Year": "2020",
+            "Location": "Kokkola",
+            "Funding": "33.73 M€",
+            "Revenue": "315 € (2023)",
+            "Business ID": "3108281-1"
+        },
+        "Hei.io": {
+            "Company": "Hei.io",
+            "S100 Index": "492",
+            "Category": "",
+            "Founding Year": "2022",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "139,693 € (2023)",
+            "Business ID": "3280382-8"
+        },
+        "Sulapac": {
+            "Company": "Sulapac",
+            "S100 Index": "931",
+            "Category": "Material Technology",
+            "Founding Year": "2016",
+            "Location": "Helsinki",
+            "Funding": "18.19 M€",
+            "Revenue": "2,124,668 € (2023)",
+            "Business ID": "2739393-2"
+        },
+        "Cumucore": {
+            "Company": "Cumucore",
+            "S100 Index": "385",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2015",
+            "Location": "Espoo",
+            "Funding": "Crunchbase",
+            "Revenue": "57,002 € (2023)",
+            "Business ID": "2661729-5"
+        },
+        "Sam Corporation": {
+            "Company": "Sam Corporation",
+            "S100 Index": "195",
+            "Category": "Education Technology",
+            "Founding Year": "2022",
+            "Location": "",
+            "Funding": "Crunchbase",
+            "Revenue": "30,340 € (2023)",
+            "Business ID": "3251840-2"
+        },
+        "Cerenion": {
+            "Company": "Cerenion",
+            "S100 Index": "301",
+            "Category": "",
+            "Founding Year": "2017",
+            "Location": "Oulu",
+            "Funding": "5.57 M€",
+            "Revenue": "43,787 € (2023)",
+            "Business ID": "2832753-1"
+        },
+        "Physilect": {
+            "Company": "Physilect",
+            "S100 Index": "147",
+            "Category": "Health & Medical Technology",
+            "Founding Year": "2015",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "94,077 € (2022)",
+            "Business ID": "2730708-8"
+        },
+        "IVALO": {
+            "Company": "IVALO",
+            "S100 Index": "602",
+            "Category": "Other Consumer Software & Apps",
+            "Founding Year": "2015",
+            "Location": "Helsinki",
+            "Funding": "0.14 M€",
+            "Revenue": "708,807 € (2023)",
+            "Business ID": "2693545-3"
+        },
+        "HappySignals": {
+            "Company": "HappySignals",
+            "S100 Index": "601",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2014",
+            "Location": "Helsinki",
+            "Funding": "16.94 M€",
+            "Revenue": "4,415,919 € (2023)",
+            "Business ID": "2643260-2"
+        },
+        "Tiitus": {
+            "Company": "Tiitus",
+            "S100 Index": "458",
+            "Category": "",
+            "Founding Year": "2016",
+            "Location": "Turku",
+            "Funding": "Crunchbase",
+            "Revenue": "335,573 € (2023)",
+            "Business ID": "2736664-3"
+        },
+        "Neuwo": {
+            "Company": "Neuwo",
+            "S100 Index": "333",
+            "Category": "SaaS/AdTech, MarTech, E-commerce",
+            "Founding Year": "2022",
+            "Location": "Jyväskylä",
+            "Funding": "Crunchbase",
+            "Revenue": "200,110 € (2023)",
+            "Business ID": "3280995-5"
+        },
+        "Yonoton": {
+            "Company": "Yonoton",
+            "S100 Index": "320",
+            "Category": "Other Consumer Software & Apps",
+            "Founding Year": "2016",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "1,672,197 € (2023)",
+            "Business ID": "2732822-5"
+        },
+        "Ainak": {
+            "Company": "Ainak",
+            "S100 Index": "297",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2018",
+            "Location": "Huhmari",
+            "Funding": "Crunchbase",
+            "Revenue": "67,680 € (2023)",
+            "Business ID": "2925129-2"
+        },
+        "Valossa": {
+            "Company": "Valossa",
+            "S100 Index": "701",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2015",
+            "Location": "Oulu",
+            "Funding": "2.3 M€",
+            "Revenue": "653,701 € (2022)",
+            "Business ID": "2718321-4"
+        },
+        "Unikie": {
+            "Company": "Unikie",
+            "S100 Index": "652",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2015",
+            "Location": "Tampere",
+            "Funding": "12.38 M€",
+            "Revenue": "64,881,596 € (2023)",
+            "Business ID": "2679881-5"
+        },
+        "Front AI": {
+            "Company": "Front AI",
+            "S100 Index": "344",
+            "Category": "",
+            "Founding Year": "2019",
+            "Location": "Helsinki",
+            "Funding": "2.38 M€",
+            "Revenue": "2,354,455 € (2023)",
+            "Business ID": "2990106-4"
+        },
+        "Cover Story": {
+            "Company": "Cover Story",
+            "S100 Index": "282",
+            "Category": "Building & Construction",
+            "Founding Year": "2020",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "480,952 € (2022)",
+            "Business ID": "3132585-2"
+        },
+        "Phaver": {
+            "Company": "Phaver",
+            "S100 Index": "917",
+            "Category": "Other Consumer Software & Apps",
+            "Founding Year": "2019",
+            "Location": "Helsinki",
+            "Funding": "7.51 M€",
+            "Revenue": "1,904,533 € (2023)",
+            "Business ID": "3019296-3"
+        },
+        "Custobar": {
+            "Company": "Custobar",
+            "S100 Index": "696",
+            "Category": "SaaS/Business Software",
+            "Founding Year": "2014",
+            "Location": "Helsinki",
+            "Funding": "0.35 M€",
+            "Revenue": "3,304,289 € (2022)",
+            "Business ID": "2645106-1"
+        },
+        "Eventz Today": {
+            "Company": "Eventz Today",
+            "S100 Index": "400",
+            "Category": "Other Consumer Software & Apps",
+            "Founding Year": "2015",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "246,394 € (2023)",
+            "Business ID": "2700656-8"
+        },
+        "Taiga Concept": {
+            "Company": "Taiga Concept",
+            "S100 Index": "321",
+            "Category": "Fashion & Design Technology",
+            "Founding Year": "2015",
+            "Location": "Kuopio",
+            "Funding": "Crunchbase",
+            "Revenue": "4,500,679 € (2023)",
+            "Business ID": "2696176-6"
+        },
+        "Tablebed": {
+            "Company": "Tablebed",
+            "S100 Index": "311",
+            "Category": "Hardware & Devices",
+            "Founding Year": "2017",
+            "Location": "Turku",
+            "Funding": "Crunchbase",
+            "Revenue": "N/A",
+            "Business ID": "2820085-6"
+        },
+        "Wonsta": {
+            "Company": "Wonsta",
+            "S100 Index": "217",
+            "Category": "SaaS/Software Development & Ops",
+            "Founding Year": "2021",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "8,944 € (2021)",
+            "Business ID": "3204106-9"
+        },
+        "thtRobotics": {
+            "Company": "thtRobotics",
+            "S100 Index": "158",
+            "Category": "Hardware & Devices",
+            "Founding Year": "2019",
+            "Location": "Vantaa",
+            "Funding": "2.09 M€",
+            "Revenue": "0 € (2024)",
+            "Business ID": "2989304-1"
+        },
+        "Shipit": {
+            "Company": "Shipit",
+            "S100 Index": "577",
+            "Category": "Industrial Equipment",
+            "Founding Year": "2015",
+            "Location": "Mariehamn",
+            "Funding": "Crunchbase",
+            "Revenue": "7,318,590 € (2024)",
+            "Business ID": "2705721-8"
+        },
+        "Bellylabs": {
+            "Company": "Bellylabs",
+            "S100 Index": "280",
+            "Category": "Health & Medical Technology",
+            "Founding Year": "2017",
+            "Location": "Helsinki",
+            "Funding": "Crunchbase",
+            "Revenue": "430,975 € (2023)",
+            "Business ID": "2818331-2"
+        }
     }
-}
+]
